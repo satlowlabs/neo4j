@@ -1,0 +1,2046 @@
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prism: <http://prismstandard.org/namespaces/basic/2.0/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ex: <http://example.org/resource/> .
+
+ex:local_2487e5d62f a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Ruth Vale" .
+
+<https://doi.org/10.1017/s0003598x00069362> a fabio:Review ;
+    dcterms:title "Reviews -              Bray Warwick and Trump David: A dictionary of archaeology. London: Allen Lane, Penguin Press, 1970. 269 pp., 104 pls., 211 figs., 17 maps. £2.25." ;
+    dcterms:creator "Warwick Bray" ;
+    dcterms:isPartOf "Antiquity" ;
+    prism:publicationDate "1971"^^xsd:gYear .
+
+<https://doi.org/10.2307/3768529> a fabio:JournalArticle ;
+    dcterms:title "Ancient Synagogue Excavations at Khirbet Shema', Upper Galilee, Israel 1970-1972" ;
+    dcterms:creator "Meyers" ;
+    dcterms:isPartOf "The Annual of the American Schools of Oriental Research" ;
+    prism:publicationDate "1976"^^xsd:gYear .
+
+<https://doi.org/10.2307/j.ctvzpv521.4> a fabio:BookChapter ;
+    dcterms:title "INTRODUCTION TO DIGITAL EDITION HANDBOOK OF SYNAGOGUE ARCHITECTURE" ;
+    dcterms:creator "Marilyn J.S. Chiat" ;
+    dcterms:isPartOf "Handbook of Synagogue Architecture" ;
+    prism:publicationDate "2020"^^xsd:gYear .
+
+<https://doi.org/10.4135/9781412939591.n1242> a fabio:ReferenceEntry ;
+    dcterms:title "Whittlesey, Derwent (1890–1956)" ;
+    dcterms:creator "Derwent Whittlesey" ;
+    dcterms:isPartOf "Encyclopedia of Geography" ;
+    prism:publicationDate "2010"^^xsd:gYear .
+
+<https://doi.org/10.1093/obo/9780199840731-0049> a fabio:ReferenceEntry ;
+    dcterms:title "Flavius Josephus" ;
+    dcterms:creator "Flavius Josephus" ;
+    dcterms:isPartOf "Jewish Studies" ;
+    prism:publicationDate "2012"^^xsd:gYear .
+
+<https://doi.org/10.2307/1454129> a fabio:JournalArticle ;
+    dcterms:title "Who Were the Galileans? New Light on Josephus' Activities in Galilee" ;
+    dcterms:creator "Zeitlin" ;
+    dcterms:isPartOf "The Jewish Quarterly Review" ;
+    prism:publicationDate "1974"^^xsd:gYear .
+
+<https://doi.org/10.1163/9789004294127_004> a fabio:BookChapter ;
+    dcterms:title "THE MISHNAH AND ARISTOTLE'S POLITICS" ;
+    dcterms:creator "H. Danby" ;
+    dcterms:isPartOf "The Mishnah" ;
+    prism:publicationDate "1999"^^xsd:gYear .
+
+<https://doi.org/10.1163/2468-2845_ejgk_com_0278> a fabio:DataFile ;
+    dcterms:title "Haaretz" ;
+    dcterms:creator "Oppenheimer" ;
+    dcterms:isPartOf "Enzyklopädie jüdischer Geschichte und Kultur" .
+
+<https://doi.org/10.2307/j.ctv6jmvf9.15> a fabio:BookChapter ;
+    dcterms:title "DER ANTEIL DES SINGSPIELS UND DER OPER AM REPERTOIRE DER DEUTSCHEN BÜHNEN IN DER ZWEITEN HÄLFTE DES 18. JAHRHUNDERTS [1981]" ;
+    dcterms:creator "Buchler" ;
+    dcterms:isPartOf "Schriften zur Theater- und Kulturgeschichte des 18. Jahrhunderts" ;
+    prism:publicationDate "2012"^^xsd:gYear .
+
+ex:local_406cda372a a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Stemberger" .
+
+<https://doi.org/10.1515/9783110901399.xix> a fabio:BookChapter ;
+    dcterms:title "The Bibliography of Günter Stemberger" ;
+    dcterms:creator "Günter Stemberger" ;
+    dcterms:isPartOf "\"The Words of a Wise Man's Mouth are Gracious\" (Qoh 10,12)" .
+
+<https://doi.org/10.1163/9789004671805_006> a fabio:BookChapter ;
+    dcterms:title "Josephus’ Jewish Antiquities and Pseudo-Philo’s Biblical Antiquities" ;
+    dcterms:creator "Josephus" ;
+    dcterms:isPartOf "Josephus, the Bible and History" ;
+    prism:publicationDate "1989"^^xsd:gYear .
+
+<https://doi.org/10.1163/27725472-04003010> a fabio:JournalArticle ;
+    dcterms:title "The Holy Land, from the Persian to the Arab Conquests (536 B.C. to A.D. 640): A Historical Geography. By M. Avi-Yonah. (Grand Rapids: Baker Book House. 1966. 231 pp. $5.95.)" ;
+    dcterms:creator "M. Avi Yonah" ;
+    dcterms:isPartOf "Evangelical Quarterly: An International Review of Bible and Theology" ;
+    prism:publicationDate "1968"^^xsd:gYear .
+
+<https://doi.org/10.1179/lev.1972.4.1.135> a fabio:JournalArticle ;
+    dcterms:title "Achaemenian Bronze Objects from a Tomb at Kh. Ibsan in Lower Galilee" ;
+    dcterms:creator "Amiran" ;
+    dcterms:isPartOf "Levant" ;
+    prism:publicationDate "1972"^^xsd:gYear .
+
+<https://doi.org/10.1016/0048-721x(76)90034-8> a fabio:JournalArticle ;
+    dcterms:title "The gospel and the land Davies, W.D., Los Angeles: University of California Press, 1974, pp. xiv + 521" ;
+    dcterms:creator "W.D. Davies" ;
+    dcterms:isPartOf "Religion" ;
+    prism:publicationDate "1976"^^xsd:gYear .
+
+<https://doi.org/10.2307/1356089> a fabio:JournalArticle ;
+    dcterms:title "Galilean Regionalism as a Factor in Historical Reconstruction" ;
+    dcterms:creator "Eric Meyers" ;
+    dcterms:isPartOf "Bulletin of the American Schools of Oriental Research" ;
+    prism:publicationDate "1976"^^xsd:gYear .
+
+<https://doi.org/10.2307/1356609> a fabio:JournalArticle ;
+    dcterms:title "The Meiron Excavation Project: Archeological Survey in Galilee and Golan, 1976" ;
+    dcterms:creator "Eric Meyers" ;
+    dcterms:isPartOf "Bulletin of the American Schools of Oriental Research" ;
+    prism:publicationDate "1978"^^xsd:gYear .
+
+<https://doi.org/10.31235/osf.io/fbyt7> a fabio:Expression ;
+    dcterms:title "Griselda in terra verde. Gli affreschi di Roccabianca dei Rossi di San Secondo" ;
+    dcterms:creator "Loffra" ;
+    prism:publicationDate "2024"^^xsd:gYear .
+
+ex:local_7e18f44d97 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Kohl" .
+
+ex:local_fee6fe5e94 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Watzinger" .
+
+ex:local_53933d2b79 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Seager" .
+
+<https://doi.org/10.1163/9789004294042_005> a fabio:BookChapter ;
+    dcterms:title "SYNAGOGUE ART: THE DURA-EURO POS SYNAGOGUE WALL PAINTINGS" ;
+    dcterms:creator "R. Vale" ;
+    dcterms:isPartOf "Ancient Jewish Art and Archaeology in the Diaspora" ;
+    prism:publicationDate "1998"^^xsd:gYear .
+
+<https://doi.org/10.2307/3209653> a fabio:JournalArticle ;
+    dcterms:title "<i>Archaeology, the Rabbis, and Early Christianity: The Social and Historical Setting of Palestinian Judaism and Christianity</i>. Eric M. Meyers and James F. Strange." ;
+    dcterms:creator "Eric Meyers" ;
+    dcterms:isPartOf "The Biblical Archaeologist" ;
+    prism:publicationDate "1983"^^xsd:gYear .
+
+<https://doi.org/10.1163/9789004532359_015> a fabio:BookChapter ;
+    dcterms:title "Ancient Synagogues in the Eastern Lower Galilee" ;
+    dcterms:creator "Chiat" ;
+    dcterms:isPartOf "Ancient Synagogues, Volume 1" ;
+    prism:publicationDate "1998"^^xsd:gYear .
+
+<https://doi.org/10.2139/ssrn.4921793> a fabio:Expression ;
+    dcterms:title "Preventing Inversions" ;
+    dcterms:creator "Avi-Yonah" ;
+    prism:publicationDate "2024"^^xsd:gYear .
+
+<https://doi.org/10.1163/9789004294042_004> a fabio:BookChapter ;
+    dcterms:title "SYNAGOGUE ARCHITECTURE" ;
+    dcterms:creator "Andrew Seager" ;
+    dcterms:isPartOf "Ancient Jewish Art and Archaeology in the Diaspora" ;
+    prism:publicationDate "1998"^^xsd:gYear .
+
+ex:local_f2340c3509 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Meyers" .
+
+ex:local_c6a888117d a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Ruth Vale" .
+
+ex:local_15914b3a7f a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Meyers" .
+
+ex:local_946d072442 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Hanson" .
+
+<https://doi.org/10.1093/odnb/9780192683120.013.12229> a fabio:ReferenceEntry ;
+    dcterms:title "Hanson, Sir Richard Davies (1805–1876)" ;
+    dcterms:creator "Richard Hanson" ;
+    dcterms:isPartOf "Oxford Dictionary of National Biography" ;
+    prism:publicationDate "2018"^^xsd:gYear .
+
+<https://doi.org/10.1017/s0020743800028282> a fabio:JournalArticle ;
+    dcterms:title "Michael L. Bates, Islamic Coins, American Numismatic Society Handbook 2 (New York: The American Numismatic Society, 1982). Pp. 52, illus." ;
+    dcterms:creator "Michael L. Bates" ;
+    dcterms:isPartOf "International Journal of Middle East Studies" ;
+    prism:publicationDate "1984"^^xsd:gYear .
+
+<https://doi.org/10.18647/1099/jjs-1983> a fabio:JournalArticle ;
+    dcterms:title "Jewish Liturgical Research: Past, Present and Future" ;
+    dcterms:creator "Stefan Reif" ;
+    dcterms:isPartOf "Journal of Jewish Studies" ;
+    prism:publicationDate "1983"^^xsd:gYear .
+
+ex:local_bb8471f3d9 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Vincent Brook" .
+
+ex:local_7f9eabdd54 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Jonathan Rosenbaum" .
+
+ex:local_dcde9b7bf6 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Alain Silver" .
+
+ex:local_3f36e7b3fc a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "David Desser" .
+
+ex:local_cf781e51e2 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Lester Friman" .
+
+ex:local_c193437b83 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Vincent Brook" .
+
+<https://doi.org/10.5902/1679849x13674> a fabio:JournalArticle ;
+    dcterms:title "Sobrevivente, ouvinte e a tentativa de superação do trauma: os personagens Sol Nazerman e Marilyn Birchfield no romance ‘The Pawnbroker’, de Edward Lewis Wallant" ;
+    dcterms:creator "ward Lewis Wallant" ;
+    dcterms:isPartOf "Literatura e Autoritarismo" ;
+    prism:publicationDate "2014"^^xsd:gYear .
+
+<https://doi.org/10.14325/mississippi/9781617039645.003.0003> a fabio:BookChapter ;
+    dcterms:title "Surviving Voices and the Search for Europe" ;
+    dcterms:creator "Fr Zinnemann" ;
+    dcterms:isPartOf "Fred Zinnemann and the Cinema of Resistance" ;
+    prism:publicationDate "2014"^^xsd:gYear .
+
+<https://doi.org/10.2307/j.ctvqsf32w.7> a fabio:BookChapter ;
+    dcterms:title "The “Juggler”:" ;
+    dcterms:creator "ward Dmytryk" ;
+    dcterms:isPartOf "The Juggler" ;
+    prism:publicationDate "1994"^^xsd:gYear .
+
+<https://doi.org/10.1515/9780824863784-018> a fabio:BookChapter ;
+    dcterms:title "HOW ANNE FRANK REWROTE THE DIARY OF ANNE FRANK" ;
+    dcterms:creator "George Stevens" ;
+    dcterms:isPartOf "On Diary" ;
+    prism:publicationDate "2017"^^xsd:gYear .
+
+<https://doi.org/10.2307/j.ctt1whm8wq.9> a fabio:BookChapter ;
+    dcterms:title "Holocaust History in Judgment at Nuremberg" ;
+    dcterms:creator "Stanley Kramer" ;
+    dcterms:isPartOf "Producer of Controversy" .
+
+<https://doi.org/10.1057/9780230358690.0014> a fabio:BookChapter ;
+    dcterms:title "Night and Fog (Alain Resnais)" ;
+    dcterms:creator "Alain Resnais" ;
+    dcterms:isPartOf "Holocaust Impiety in Literature, Popular Music and Film" .
+
+<https://doi.org/10.5040/9798400631344.0039> a fabio:Expression ;
+    dcterms:title "Wallace Markfield (1926– )" ;
+    dcterms:creator "Wallace Markfield" ;
+    dcterms:isPartOf "Contemporary Jewish-American Novelists" ;
+    prism:publicationDate "1997"^^xsd:gYear .
+
+<https://doi.org/10.1021/cen-09144-empl> a fabio:JournalArticle ;
+    dcterms:title "Just Tell Me What You Want" ;
+    dcterms:creator "Jay Presson Allen" ;
+    dcterms:isPartOf "Chemical &amp; Engineering News Archive" ;
+    prism:publicationDate "2013"^^xsd:gYear .
+
+<https://doi.org/10.1353/saf.2002.0001> a fabio:JournalArticle ;
+    dcterms:title "Ambivalence on the Left: Budd Schulberg's What Makes Sammy Run?" ;
+    dcterms:creator "Budd Schulberg" ;
+    dcterms:isPartOf "Studies in American Fiction" ;
+    prism:publicationDate "2002"^^xsd:gYear .
+
+<https://doi.org/10.5040/9780571344918.ch-015> a fabio:Expression ;
+    dcterms:title "Hannah and Her Sisters" ;
+    dcterms:creator "Woody Allen" ;
+    dcterms:isPartOf "Woody Allen on Woody Allen" ;
+    prism:publicationDate "1993"^^xsd:gYear .
+
+<https://doi.org/10.5040/9780571344918.ch-010> a fabio:Expression ;
+    dcterms:title "Manhattan" ;
+    dcterms:creator "Woody Allen" ;
+    dcterms:isPartOf "Woody Allen on Woody Allen" ;
+    prism:publicationDate "1993"^^xsd:gYear .
+
+ex:local_2a6d563956 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Patricia Erens" .
+
+<https://doi.org/10.11606/d.8.2007.tde-08112007-154057> a fabio:Expression ;
+    dcterms:title "A crise da esquerda norte-americana em 'The Book of Daniel', de E.L. Doctorow" ;
+    dcterms:creator "E. L. Doctorow" .
+
+ex:local_0854027793 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Desser" .
+
+ex:local_eafb292b15 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Desser" .
+
+ex:local_cb327f42da a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Friman" .
+
+ex:local_08c246373d a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Vincent Brook" .
+
+<https://doi.org/10.3366/edinburgh/9781474440189.003.0006> a fabio:BookChapter ;
+    dcterms:title "“Don’t Put A Milky Way in Someone’s Mouth When They Don’t Want It”: A Contemporary Feminist Rereading of Elaine May’s The Heartbreak Kid (1972)" ;
+    dcterms:creator "Elaine May" ;
+    dcterms:isPartOf "ReFocus: The Films of Elaine May" ;
+    prism:publicationDate "2019"^^xsd:gYear .
+
+<https://doi.org/10.7560/723153-003> a fabio:BookChapter ;
+    dcterms:title "INTRODUCTION Since When Is Fran Drescher Jewish?" ;
+    dcterms:creator "Fran Drescher" ;
+    dcterms:isPartOf "Since When Is Fran Drescher Jewish?" ;
+    prism:publicationDate "2010"^^xsd:gYear .
+
+<https://doi.org/10.1037/e535612004-001> a fabio:DataFile ;
+    dcterms:title "Running on empty" ;
+    dcterms:creator "Naomi Foner" ;
+    dcterms:isPartOf "PsycEXTRA Dataset" ;
+    prism:publicationDate "1998"^^xsd:gYear .
+
+<https://doi.org/10.5325/j.ctt32bb29.12> a fabio:BookChapter ;
+    dcterms:title "CHOOSING THE CHOSEN:" ;
+    dcterms:creator "Chaim Potok" ;
+    dcterms:isPartOf "Chaim Potok" ;
+    prism:publicationDate "2015"^^xsd:gYear .
+
+<https://doi.org/10.1093/ww/9780199540884.013.u246477> a fabio:ReferenceEntry ;
+    dcterms:title "Epstein, Paul Jeremy, (born 9 Aug. 1963), QC 2006" ;
+    dcterms:creator "Jeremy Paul Kagan" ;
+    dcterms:isPartOf "Who's Who" ;
+    prism:publicationDate "2008"^^xsd:gYear .
+
+<https://doi.org/10.1515/9781782385769-010> a fabio:BookChapter ;
+    dcterms:title "Appendix. Darren Aronofsky Filmography" ;
+    dcterms:creator "Darren Aronofsky" ;
+    dcterms:isPartOf "Bodies in Pain" ;
+    prism:publicationDate "2022"^^xsd:gYear .
+
+<https://doi.org/10.1080/00332920008403369> a fabio:JournalArticle ;
+    dcterms:title "A price above rubies: Patriarchy and the feminine" ;
+    dcterms:creator "Boaz Yakin" ;
+    dcterms:isPartOf "Psychological Perspectives" ;
+    prism:publicationDate "2000"^^xsd:gYear .
+
+<https://doi.org/10.7312/rand94244-018> a fabio:BookChapter ;
+    dcterms:title "The Holy Rollers" ;
+    dcterms:creator "Kevin Asch" ;
+    dcterms:isPartOf "The Talking Turtle and Other Ozark Folk Tales" ;
+    prism:publicationDate "1957"^^xsd:gYear .
+
+<https://doi.org/10.59056/kbzf.2009.3.p57-68> a fabio:JournalArticle ;
+    dcterms:title "Überlegungen zur hybriden Form des vermeintlich ersten Tonfilms THE JAZZ SINGER (USA 1927, Alan Crosland)" ;
+    dcterms:creator "Alan Crosland" ;
+    dcterms:isPartOf "Kieler Beiträge zur Filmmusikforschung" ;
+    prism:publicationDate "2023"^^xsd:gYear .
+
+<https://doi.org/10.5040/9780571344918.ch-008> a fabio:Expression ;
+    dcterms:title "Annie Hall" ;
+    dcterms:creator "Woody Allen" ;
+    dcterms:isPartOf "Woody Allen on Woody Allen" ;
+    prism:publicationDate "1993"^^xsd:gYear .
+
+<https://doi.org/10.5040/9781628929072.ch-005> a fabio:BookChapter ;
+    dcterms:title "Witness (1985) and The Mosquito Coast (1986)" ;
+    dcterms:creator "Peter Weir" ;
+    dcterms:isPartOf "The Films of Peter Weir" .
+
+ex:local_8f2f475163 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Desser" .
+
+ex:local_ca0f0fb9fd a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Friman" .
+
+ex:local_19eedff91d a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Robert Avrech" .
+
+ex:local_83db908565 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Vincent Brook" .
+
+<https://doi.org/10.1093/gao/9781884446054.article.t096845> a fabio:Expression ;
+    dcterms:title "Hoberman, Nicky" ;
+    dcterms:creator "J. Hoberman" ;
+    dcterms:isPartOf "Oxford Art Online" ;
+    prism:publicationDate "2000"^^xsd:gYear .
+
+<https://doi.org/10.2307/1213206> a fabio:JournalArticle ;
+    dcterms:title "Film and Politics in America: A Social Tradition Brian Neve" ;
+    dcterms:creator "Brian Neve" ;
+    dcterms:isPartOf "Film Quarterly" ;
+    prism:publicationDate "1993"^^xsd:gYear .
+
+<https://doi.org/10.36019/9780813548333> a fabio:Book ;
+    dcterms:title "Driven to Darkness" ;
+    dcterms:creator "Vincent Brook" ;
+    prism:publicationDate "2019"^^xsd:gYear .
+
+<https://doi.org/10.4324/9780203358818> a fabio:Book ;
+    dcterms:title "The Classical Hollywood Cinema" ;
+    dcterms:creator "David Bordwell" ;
+    prism:publicationDate "2003"^^xsd:gYear .
+
+<https://doi.org/10.2307/1213295> a fabio:Review ;
+    dcterms:title "Review: American-Jewish Filmmakers: Traditions and Trends by David Desser, Lester D. Friedman" ;
+    dcterms:creator "David Desser" ;
+    dcterms:isPartOf "Film Quarterly" ;
+    prism:publicationDate "1995"^^xsd:gYear .
+
+<https://doi.org/10.2307/1212964> a fabio:Review ;
+    dcterms:title "Review: The Films of Alfred Hitchcock by David Sterritt; The Films of Woody Allen by Sam B. Girgus" ;
+    dcterms:creator "Sam B. Girgus" ;
+    dcterms:isPartOf "Film Quarterly" ;
+    prism:publicationDate "1994"^^xsd:gYear .
+
+<https://doi.org/10.1525/9780520914957-030> a fabio:BookChapter ;
+    dcterms:title "Notes Toward the Devaluation of Woody Allen" ;
+    dcterms:creator "Jonathan Rosenbaum" ;
+    dcterms:isPartOf "Placing Movies" ;
+    prism:publicationDate "1995"^^xsd:gYear .
+
+<https://doi.org/10.5040/9781350911086> a fabio:Expression ;
+    dcterms:title "From Theater to Film: Sidney Lumet" ;
+    dcterms:creator "Don Shewey" ;
+    dcterms:isPartOf "From Theater to Film: Sidney Lumet" ;
+    prism:publicationDate "1962"^^xsd:gYear .
+
+<https://doi.org/10.26812/9781611684810> a fabio:Expression ;
+    dcterms:title "Woody on Rye: Jewishness in the Films and Plays of Woody Allen" ;
+    dcterms:creator "Vincent Brook" ;
+    prism:publicationDate "2014"^^xsd:gYear .
+
+<https://doi.org/10.36019/9780813554587> a fabio:Book ;
+    dcterms:title "Land of Smoke and Mirrors" ;
+    dcterms:creator "Vincent Brook" ;
+    prism:publicationDate "2019"^^xsd:gYear .
+
+<https://doi.org/10.2307/1213044> a fabio:Review ;
+    dcterms:title "Review: Sidney Lumet Film and Literary Vision by Frank R. Cunningham" ;
+    dcterms:creator "Frank R. Cunningham" ;
+    dcterms:isPartOf "Film Quarterly" ;
+    prism:publicationDate "1992"^^xsd:gYear .
+
+<https://doi.org/10.2307/1212507> a fabio:Review ;
+    dcterms:title "Review: The Jew in American Cinema by Patricia Erens" ;
+    dcterms:creator "Patricia Erens" ;
+    dcterms:isPartOf "Film Quarterly" ;
+    prism:publicationDate "1986"^^xsd:gYear .
+
+<https://doi.org/10.1525/9780520957947-020> a fabio:BookChapter ;
+    dcterms:title "Andrew Sarris" ;
+    dcterms:creator "Andrew Sarris" ;
+    dcterms:isPartOf "An Invention without a Future" ;
+    prism:publicationDate "2019"^^xsd:gYear .
+
+<https://doi.org/10.1353/cj.2000.0002> a fabio:JournalArticle ;
+    dcterms:title "\"We Do Not Ask You to Condone This\": How the Blacklist Saved Hollywood" ;
+    dcterms:creator "Jon Lewis" ;
+    dcterms:isPartOf "Cinema Journal" ;
+    prism:publicationDate "2000"^^xsd:gYear .
+
+<https://doi.org/10.1386/fm_00259_5> a fabio:JournalArticle ;
+    dcterms:title "Making Movies, Sidney Lumet (1996)" ;
+    dcterms:creator "Sidney Lumet" ;
+    dcterms:isPartOf "Film Matters" ;
+    prism:publicationDate "2023"^^xsd:gYear .
+
+<https://doi.org/10.4324/9780429499821-18> a fabio:BookChapter ;
+    dcterms:title "Bobos in Paradise: The New Upper Class and How They Got There" ;
+    dcterms:creator "David Brooks" ;
+    dcterms:isPartOf "Inequality in the 21st Century" ;
+    prism:publicationDate "2018"^^xsd:gYear .
+
+<https://doi.org/10.4324/9781315052816-19> a fabio:BookChapter ;
+    dcterms:title "Woody Allen and American Character in Deconstructing Harry" ;
+    dcterms:creator "Shaina Hammerman" ;
+    dcterms:isPartOf "Woody Allen" ;
+    prism:publicationDate "2014"^^xsd:gYear .
+
+<https://doi.org/10.1080/14725886.2011.608557> a fabio:JournalArticle ;
+    dcterms:title "THE FOUR<i>JAZZ SINGERS</i>: MAPPING THE JEWISH ASSIMILATION NARRATIVE" ;
+    dcterms:creator "Vincent Brook" ;
+    dcterms:isPartOf "Journal of Modern Jewish Studies" ;
+    prism:publicationDate "2011"^^xsd:gYear .
+
+<https://doi.org/10.1353/jfn.2014.a549716> a fabio:JournalArticle ;
+    dcterms:title "Documenting Otherness: Jewish Latin American Female Filmmakers" ;
+    dcterms:creator "Friman" ;
+    dcterms:isPartOf "Jewish Film &amp; New Media: An International Journal" ;
+    prism:publicationDate "2014"^^xsd:gYear .
+
+<https://doi.org/10.1093/ww/9780199540884.013.u57304> a fabio:ReferenceEntry ;
+    dcterms:title "Hylton, Jack, (2 July 1892–29 Jan. 1965), Impresario; Chairman and Managing Director, Jack Hylton Ltd; Chairman and Director, Piccadilly Theatre Ltd; Director, T. W. W. Ltd" ;
+    dcterms:creator "Jack Mathews" ;
+    dcterms:isPartOf "Who Was Who" ;
+    prism:publicationDate "2007"^^xsd:gYear .
+
+<https://doi.org/10.4324/9780203204832_chapter_2> a fabio:BookChapter ;
+    dcterms:title "THE DEMOGRAPHIC IMPACT OF THE HOLOCAUST" ;
+    dcterms:creator "U. O. Schmelz" ;
+    dcterms:isPartOf "TERMS OF SURVIVAL" .
+
+<https://doi.org/10.1515/9781644693629-062> a fabio:BookChapter ;
+    dcterms:title "8. Barry Kosmin, Highlights of the CJF 1990 National Jewish Population Survey “A Portrait of Jewish Americans,” Pew Research Center" ;
+    dcterms:creator "B. Kosmin" ;
+    dcterms:isPartOf "The New Jewish Canon" ;
+    prism:publicationDate "2020"^^xsd:gYear .
+
+<https://doi.org/10.1007/978-3-319-46122-9_15> a fabio:BookChapter ;
+    dcterms:title "United States Jewish Population, 2016" ;
+    dcterms:creator "P. Ritterband" ;
+    dcterms:isPartOf "American Jewish Year Book" ;
+    prism:publicationDate "2017"^^xsd:gYear .
+
+<https://doi.org/10.2307/1973271> a fabio:JournalArticle ;
+    dcterms:title "World Population Prospects: Estimates and Projections as Assessed in 1982." ;
+    dcterms:creator "U. O. Schmelz" ;
+    dcterms:isPartOf "Population and Development Review" ;
+    prism:publicationDate "1985"^^xsd:gYear .
+
+<https://doi.org/10.1355/9789814762205-020> a fabio:BookChapter ;
+    dcterms:title "16. Demographic Trends and Consequences" ;
+    dcterms:creator "U. O. Schmelz" ;
+    dcterms:isPartOf "Population Policies and Programmes in Singapore, 2nd edition" ;
+    prism:publicationDate "2016"^^xsd:gYear .
+
+<https://doi.org/10.4324/9781003022053-9> a fabio:BookChapter ;
+    dcterms:title "Demographic Trends of Latin American Jewry" ;
+    dcterms:creator "Sergio DellaPergola" ;
+    dcterms:isPartOf "The Jewish Presence in Latin America" ;
+    prism:publicationDate "2020"^^xsd:gYear .
+
+<https://doi.org/10.2307/2174850> a fabio:JournalArticle ;
+    dcterms:title "Papers in Jewish Demography 1977." ;
+    dcterms:creator "U.O. Schmelz" ;
+    dcterms:isPartOf "Population Studies" ;
+    prism:publicationDate "1981"^^xsd:gYear .
+
+<https://doi.org/10.1515/9781618114402-018> a fabio:BookChapter ;
+    dcterms:title "Sergio DellaPergola Main Publications" ;
+    dcterms:creator "Sergio DellaPergola" ;
+    dcterms:isPartOf "Research in Jewish Demography and Identity" ;
+    prism:publicationDate "2019"^^xsd:gYear .
+
+<https://doi.org/10.1007/s12397-018-9268-3> a fabio:JournalArticle ;
+    dcterms:title "Past and Present of Latin American Jewry: A Conceptual Pathway" ;
+    dcterms:creator "U. O. Schmelz" ;
+    dcterms:isPartOf "Contemporary Jewry" ;
+    prism:publicationDate "2018"^^xsd:gYear .
+
+<https://doi.org/10.1007/s12397-025-09646-1> a fabio:JournalArticle ;
+    dcterms:title "Sergio DellaPergola: US Jews, Reflections on Identity and Demography, Studies of Jews in Society, Volume 7" ;
+    dcterms:creator "Sergio DellaPergola" ;
+    dcterms:isPartOf "Contemporary Jewry" ;
+    prism:publicationDate "2025"^^xsd:gYear .
+
+<https://doi.org/10.1017/s0395264900074096> a fabio:JournalArticle ;
+    dcterms:title "Doris Bensimon et Sergio Della Pergola, La population juive de France, sociodémographie et identité, Jérusalem, The Institute of Contemporary Jewry. The Hebrew University of Jérusalem ; Paris, CNRS, 1984." ;
+    dcterms:creator "Doris Bensimon" ;
+    dcterms:isPartOf "Annales. Histoire, Sciences Sociales" ;
+    prism:publicationDate "1986"^^xsd:gYear .
+
+<https://doi.org/10.2307/2981657> a fabio:JournalArticle ;
+    dcterms:title "Mortality Patterns of British Jews 1975-79: Insights and Applications for the Size and Structure of British Jewry" ;
+    dcterms:creator "S. Haberman" ;
+    dcterms:isPartOf "Journal of the Royal Statistical Society. Series A (General)" ;
+    prism:publicationDate "1983"^^xsd:gYear .
+
+<https://doi.org/10.1080/00213624.2004.11506666> a fabio:JournalArticle ;
+    dcterms:title "A Model of Network Capitalism: Basic Ideas and Post-Soviet Evidence" ;
+    dcterms:creator "U. O. Schmelz" ;
+    dcterms:isPartOf "Journal of Economic Issues" ;
+    prism:publicationDate "2004"^^xsd:gYear .
+
+ex:local_dcc0866f80 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "U. O. SCHMELZ" .
+
+ex:local_01d52d3a56 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Sergio DellaPergola" .
+
+<https://doi.org/10.1353/sho.2003.0001> a fabio:JournalArticle ;
+    dcterms:title "A Profoundly Hegemonic Moment: De-Mythologizing the Cold War New York Jewish Intellectuals" ;
+    dcterms:creator "Nathan Abrams" ;
+    dcterms:isPartOf "Shofar: An Interdisciplinary Journal of Jewish Studies" ;
+    prism:publicationDate "2003"^^xsd:gYear .
+
+ex:local_0cc665391b a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Antonio Gramsci" .
+
+ex:local_5847b713f1 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Michel Foucault" .
+
+ex:local_74f60813b2 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Richard King" .
+
+ex:local_afdf44569e a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Morris Dickstein" .
+
+<https://doi.org/10.1353/sais.1983.0039> a fabio:JournalArticle ;
+    dcterms:title "Interview with Norman Podhoretz" ;
+    dcterms:creator "Norman Podhoretz" ;
+    dcterms:isPartOf "SAIS Review" ;
+    prism:publicationDate "1983"^^xsd:gYear .
+
+<https://doi.org/10.2307/2067386> a fabio:JournalArticle ;
+    dcterms:title "Breaking Ranks: A Political Memoir." ;
+    dcterms:creator "Norman Podhoretz" ;
+    dcterms:isPartOf "Contemporary Sociology" ;
+    prism:publicationDate "1981"^^xsd:gYear .
+
+<https://doi.org/10.1176/ajp.156.12.2007> a fabio:JournalArticle ;
+    dcterms:title "Ex-Friends: Falling Out With Allen Ginsberg, Lionel and Diana Trilling, Lillian Hellman, Hannah Arendt, and Norman Mailer" ;
+    dcterms:creator "Norman Podhoretz" ;
+    dcterms:isPartOf "American Journal of Psychiatry" ;
+    prism:publicationDate "1999"^^xsd:gYear .
+
+<https://doi.org/10.2307/j.ctt130hhgm.17> a fabio:BookChapter ;
+    dcterms:title "Illustrations" ;
+    dcterms:creator "Norman Podhoretz" ;
+    dcterms:isPartOf "Cold Comfort" ;
+    prism:publicationDate "1996"^^xsd:gYear .
+
+<https://doi.org/10.7312/robi18208-fm> a fabio:BookChapter ;
+    dcterms:title "Frontmatter" ;
+    dcterms:creator "Diana Trilling" ;
+    dcterms:isPartOf "The Untold Journey" ;
+    prism:publicationDate "2017"^^xsd:gYear .
+
+<https://doi.org/10.4324/9781351315807-5> a fabio:BookChapter ;
+    dcterms:title "New Partisan Review" ;
+    dcterms:creator "William Phillips" ;
+    dcterms:isPartOf "A Partisan View" ;
+    prism:publicationDate "2017"^^xsd:gYear .
+
+<https://doi.org/10.2307/j.ctt6wq4m1.11> a fabio:BookChapter ;
+    dcterms:title "“A Margin of Hope at the 92nd Street Y,” 7 November 1983 (unpublished audiotape)." ;
+    dcterms:creator "Irving Howe" ;
+    dcterms:isPartOf "Politics and the Intellectual" ;
+    prism:publicationDate "2010"^^xsd:gYear .
+
+<https://doi.org/10.2307/3324611> a fabio:JournalArticle ;
+    dcterms:title "Reflections of a Neoconservative. Looking Back, Looking Ahead" ;
+    dcterms:creator "Irving Kristol" ;
+    dcterms:isPartOf "Journal of Policy Analysis and Management" ;
+    prism:publicationDate "1984"^^xsd:gYear .
+
+<https://doi.org/10.1023/a:1024204511897> a fabio:JournalArticle ;
+    dcterms:title "Richard A. Posner, Public Intellectuals: A Study of Decline" ;
+    dcterms:creator "Richard A. Posner" ;
+    dcterms:isPartOf "Public Choice" ;
+    prism:publicationDate "2003"^^xsd:gYear .
+
+<https://doi.org/10.1353/mdr.1995.0007> a fabio:Review ;
+    dcterms:title "Communists, Cowboys, and Queers: The Politics of Masculinity in the Work of Arthur Miller and Tennessee Williams by David Savran (review)" ;
+    dcterms:creator "David Savran" ;
+    dcterms:isPartOf "Modern Drama" ;
+    prism:publicationDate "1995"^^xsd:gYear .
+
+ex:local_b1eebe3c5f a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Russell Jacoby" .
+
+ex:local_e574788d9f a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "ward Said" .
+
+<https://doi.org/10.2307/j.ctt1b4cx9b.45> a fabio:BookChapter ;
+    dcterms:title "Memoir" ;
+    dcterms:creator "T Solotaroff" ;
+    dcterms:isPartOf "The Double Truth" .
+
+<https://doi.org/10.1163/9789004214002_050> a fabio:BookChapter ;
+    dcterms:title "My Wife Calls Out a Rhyme for a Poem" ;
+    dcterms:creator "Midge Decter" ;
+    dcterms:isPartOf "A Hundred Love Poems from Old Korea" ;
+    prism:publicationDate "2003"^^xsd:gYear .
+
+<https://doi.org/10.1017/s0084255900044399> a fabio:JournalArticle ;
+    dcterms:title "The Truants: Adventures Among the Intellectuals by William Barrett (Anchor Press; 270 pp.; $15.95)" ;
+    dcterms:creator "William Barrett" ;
+    dcterms:isPartOf "Worldview" ;
+    prism:publicationDate "1982"^^xsd:gYear .
+
+<https://doi.org/10.4324/9781315872193-35> a fabio:BookChapter ;
+    dcterms:title "Quintin Hoare and Geoﬀrey Nowell Smith (eds), Selections from the prison notebooks of Antonio Gramsci" ;
+    dcterms:creator "Antonio Gramsci" ;
+    dcterms:isPartOf "Cultural Policy Review of Books" ;
+    prism:publicationDate "2014"^^xsd:gYear .
+
+<https://doi.org/10.4324/9780203879788-23> a fabio:BookChapter ;
+    dcterms:title "Representations of the Intellectual: The Historian as ‘Outsider’" ;
+    dcterms:creator "ward W. Said" ;
+    dcterms:isPartOf "Edward Said and the Literary, Social, and Political World" ;
+    prism:publicationDate "2009"^^xsd:gYear .
+
+<https://doi.org/10.2307/466250> a fabio:JournalArticle ;
+    dcterms:title "Intellectuals in Decline? Russell Jacoby, The Last Intellectuals: American Culture in the Age of Academe" ;
+    dcterms:creator "Russell Jacoby" ;
+    dcterms:isPartOf "Social Text" ;
+    prism:publicationDate "1990"^^xsd:gYear .
+
+<https://doi.org/10.1017/s0084255900023846> a fabio:JournalArticle ;
+    dcterms:title "The Ordeal of Civility: Freud, Marx, Levi-Strauss and the Jewish Struggle With Modernity by John Murray Cuddihy (Basic Books; 272 pp.; $11.95)" ;
+    dcterms:creator "John Murray Cuddihy" ;
+    dcterms:isPartOf "Worldview" ;
+    prism:publicationDate "1975"^^xsd:gYear .
+
+<https://doi.org/10.1007/978-3-476-05728-0_12148-1> a fabio:BookChapter ;
+    dcterms:title "Miller, Arthur: Timebends" ;
+    dcterms:creator "Arthur Miller" ;
+    dcterms:isPartOf "Kindlers Literatur Lexikon (KLL)" ;
+    prism:publicationDate "2020"^^xsd:gYear .
+
+<https://doi.org/10.2307/3737251> a fabio:JournalArticle ;
+    dcterms:title "God and the American Writer" ;
+    dcterms:creator "Alfr Kazin" ;
+    dcterms:isPartOf "The Modern Language Review" ;
+    prism:publicationDate "1999"^^xsd:gYear .
+
+<https://doi.org/10.1093/acprof:oso/9780195101126.001.0001> a fabio:Expression ;
+    dcterms:title "Antisemitism in America" ;
+    dcterms:creator "Leonard Dinnerstein" ;
+    prism:publicationDate "1996"^^xsd:gYear .
+
+<https://doi.org/10.2307/2170802> a fabio:JournalArticle ;
+    dcterms:title "Left Intellectuals and Popular Culture in Twentieth-Century America." ;
+    dcterms:creator "Paul R. Gorman" ;
+    dcterms:isPartOf "The American Historical Review" ;
+    prism:publicationDate "1997"^^xsd:gYear .
+
+ex:local_c8dc738052 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Irving Howe" .
+
+ex:local_3d1349839b a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Michel Foucault" .
+
+<https://doi.org/10.2307/40139235> a fabio:JournalArticle ;
+    dcterms:title "A Margin of Hope: An Intellectual Autobiography" ;
+    dcterms:creator "Irving Howe" ;
+    dcterms:isPartOf "World Literature Today" ;
+    prism:publicationDate "1983"^^xsd:gYear .
+
+<https://doi.org/10.5840/cogito19915214> a fabio:JournalArticle ;
+    dcterms:title "Michel Foucault" ;
+    dcterms:creator "Michel Foucault" ;
+    dcterms:isPartOf "Cogito" ;
+    prism:publicationDate "1991"^^xsd:gYear .
+
+<https://doi.org/10.2307/2927133> a fabio:Review ;
+    dcterms:title "The Rise of the New York Intellectuals: Partisan Review and its Circle, 1934-1945." ;
+    dcterms:creator "Terry Cooney" ;
+    dcterms:isPartOf "American Literature" ;
+    prism:publicationDate "1987"^^xsd:gYear .
+
+<https://doi.org/10.4135/9781446280447.n7> a fabio:BookChapter ;
+    dcterms:title "The Universalism–Particularism Issue" ;
+    dcterms:creator "Stephen A. Longstaff" ;
+    dcterms:isPartOf "Globalization: Social Theory and Global Culture" ;
+    prism:publicationDate "2000"^^xsd:gYear .
+
+<https://doi.org/10.1086/ahr/102.4.1255> a fabio:JournalArticle ;
+    dcterms:title "Hugh Wilford. <i>The New York Intellectuals: From Vanguard to Institution</i>. New York: Manchester University Press. 1995. Pp. xii, 260. $39.95" ;
+    dcterms:creator "Hugh Wilford" ;
+    dcterms:isPartOf "The American Historical Review" ;
+    prism:publicationDate "1997"^^xsd:gYear .
+
+ex:local_4c30f3b9b5 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Midge Decter" .
+
+ex:local_82031c7fbf a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Norman Podhoretz" .
+
+<https://doi.org/10.12987/yale/9780300203660.003.0008> a fabio:BookChapter ;
+    dcterms:title "The New York Intellectuals {1969}" ;
+    dcterms:creator "Irving Howe" ;
+    dcterms:isPartOf "A Voice Still Heard" ;
+    prism:publicationDate "2014"^^xsd:gYear .
+
+<https://doi.org/10.1163/2468-1733_shafr_sim140150050> a fabio:DataFile ;
+    dcterms:title "The Liberal Mind in a Conservative Age: American Intellectuals in the 1940s and 1950s" ;
+    dcterms:creator "Richard Pells" ;
+    dcterms:isPartOf "The SHAFR Guide Online" .
+
+<https://doi.org/10.1017/s0030826900616570> a fabio:JournalArticle ;
+    dcterms:title "Henry Pachter" ;
+    dcterms:creator "Henry Pachter" ;
+    dcterms:isPartOf "PS" ;
+    prism:publicationDate "1981"^^xsd:gYear .
+
+<https://doi.org/10.51845/35.2.18> a fabio:JournalArticle ;
+    dcterms:title "No Midge, No NAS: A Tribute to Midge Decter" ;
+    dcterms:creator "Midge Decter" ;
+    dcterms:isPartOf "Academic Questions" ;
+    prism:publicationDate "2022"^^xsd:gYear .
+
+<https://doi.org/10.3366/edinburgh/9781474417884.003.0004> a fabio:BookChapter ;
+    dcterms:title "Foucault and the Force of Power-Knowledge" ;
+    dcterms:creator "Foucault" ;
+    dcterms:isPartOf "Immanence and Micropolitics" ;
+    prism:publicationDate "2017"^^xsd:gYear .
+
+<https://doi.org/10.1093/jiplp/jpl176> a fabio:JournalArticle ;
+    dcterms:title "International Patent Law is Obsolete and Copyright is Obsolete" ;
+    dcterms:creator "H. Stuart Hughes" ;
+    dcterms:isPartOf "Journal of Intellectual Property Law &amp; Practice" ;
+    prism:publicationDate "2006"^^xsd:gYear .
+
+<https://doi.org/10.4324/9780203699836> a fabio:Book ;
+    dcterms:title "No Respect" ;
+    dcterms:creator "Andrew Ross" ;
+    prism:publicationDate "2016"^^xsd:gYear .
+
+<https://doi.org/10.1086/ahr/90.3.567> a fabio:JournalArticle ;
+    dcterms:title "The Concept of Cultural Hegemony: Problems and Possibilities" ;
+    dcterms:creator "T. J. Jackson Lears" ;
+    dcterms:isPartOf "The American Historical Review" ;
+    prism:publicationDate "1985"^^xsd:gYear .
+
+<https://doi.org/10.4324/9780203713532-7> a fabio:BookChapter ;
+    dcterms:title "The tight place: Marxism or literature? 1947-50" ;
+    dcterms:creator "Raymond Williams" ;
+    dcterms:isPartOf "Raymond Williams" ;
+    prism:publicationDate "2013"^^xsd:gYear .
+
+<https://doi.org/10.1017/s0147547900009868> a fabio:JournalArticle ;
+    dcterms:title "The End of Mass Culture" ;
+    dcterms:creator "Michael Denning" ;
+    dcterms:isPartOf "International Labor and Working-Class History" ;
+    prism:publicationDate "1990"^^xsd:gYear .
+
+<https://doi.org/10.1177/003232927600600201> a fabio:JournalArticle ;
+    dcterms:title "Revolutionary Contradictions: Antonio Gramsci and the Problem of Intellectuals" ;
+    dcterms:creator "Jerome Karabel" ;
+    dcterms:isPartOf "Politics &amp; Society" ;
+    prism:publicationDate "1976"^^xsd:gYear .
+
+<https://doi.org/10.2307/1889660> a fabio:JournalArticle ;
+    dcterms:title "The Struggle for Hegemony" ;
+    dcterms:creator "George Lipsitz" ;
+    dcterms:isPartOf "The Journal of American History" ;
+    prism:publicationDate "1988"^^xsd:gYear .
+
+<https://doi.org/10.2307/2146959> a fabio:JournalArticle ;
+    dcterms:title "The Agony of the American Left, <i>by Christopher Lasch</i>" ;
+    dcterms:creator "Christopher Lasch" ;
+    dcterms:isPartOf "Political Science Quarterly" ;
+    prism:publicationDate "1970"^^xsd:gYear .
+
+<https://doi.org/10.5040/9798881818623.0005> a fabio:Expression ;
+    dcterms:title "Abbreviations" ;
+    dcterms:creator "Hugh Wilford" ;
+    dcterms:isPartOf "U.S. International Exhibitions during the Cold War" ;
+    prism:publicationDate "2015"^^xsd:gYear .
+
+ex:local_fe933c6270 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Thomas Bender" .
+
+ex:local_1a1a16385e a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Paul Bové" .
+
+<https://doi.org/10.2307/1873686> a fabio:JournalArticle ;
+    dcterms:title "Thomas Bender New York Intellect: A History of Intellectual Life in New York City, from 1750 to the Beginnings of Our Own Time" ;
+    dcterms:creator "Thomas Bender" ;
+    dcterms:isPartOf "The American Historical Review" ;
+    prism:publicationDate "1988"^^xsd:gYear .
+
+<https://doi.org/10.1111/1540_6245.jaac45.4.0416> a fabio:JournalArticle ;
+    dcterms:title "Paul A. Bové, Intellectuals in Power: A Genealogy of Critical Humanism" ;
+    dcterms:creator "Paul A. Bove" ;
+    dcterms:isPartOf "The Journal of Aesthetics and Art Criticism" ;
+    prism:publicationDate "1987"^^xsd:gYear .
+
+<https://doi.org/10.4324/9780429355363-27> a fabio:BookChapter ;
+    dcterms:title "Selections from the prison notebooks" ;
+    dcterms:creator "Gramsci" ;
+    dcterms:isPartOf "The Applied Theatre Reader" ;
+    prism:publicationDate "2020"^^xsd:gYear .
+
+<https://doi.org/10.4324/9781315702889> a fabio:Book ;
+    dcterms:title "Letters of Sidney Hook: Democracy, Communism and the Cold War" ;
+    dcterms:creator "Sidney Hook" ;
+    prism:publicationDate "2015"^^xsd:gYear .
+
+<https://doi.org/10.1093/anb/9780198606697.article.1701555> a fabio:Expression ;
+    dcterms:title "Greenberg, Clement (1909-1994), art critic" ;
+    dcterms:creator "Clement Greenberg" ;
+    dcterms:isPartOf "American National Biography Online" ;
+    prism:publicationDate "2000"^^xsd:gYear .
+
+ex:local_95bad3b37a a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Maurice Goldbloom" .
+
+ex:local_1a7c6c0a1e a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "O. John Rogge" .
+
+<https://doi.org/10.7765/9781847794376.00004> a fabio:BookChapter ;
+    dcterms:title "Series editors’ foreword" ;
+    dcterms:creator "Maurice Goldbloom" ;
+    dcterms:isPartOf "Maurice Pialat" ;
+    prism:publicationDate "2013"^^xsd:gYear .
+
+<https://doi.org/10.1111/j.1468-0130.1992.tb00581.x> a fabio:JournalArticle ;
+    dcterms:title "“DOES THAT MAKE PEACE A BAD WORD?”" ;
+    dcterms:creator "Robbie Lieberman" ;
+    dcterms:isPartOf "Peace &amp; Change" ;
+    prism:publicationDate "1992"^^xsd:gYear .
+
+<https://doi.org/10.1093/gao/9781884446054.article.t004715> a fabio:ReferenceEntry ;
+    dcterms:title "Astor, William Waldorf, 1st Viscount" ;
+    dcterms:creator "William Barrett" ;
+    dcterms:isPartOf "Oxford Art Online" ;
+    prism:publicationDate "2003"^^xsd:gYear .
+
+<https://doi.org/10.1111/j.1542-734x.1995.00059.x> a fabio:JournalArticle ;
+    dcterms:title "Communism, Peace Activism, and Civil Liberties: From the Waldorf Conference to the Peekskill Riot" ;
+    dcterms:creator "Robbie Lieberman" ;
+    dcterms:isPartOf "Journal of American Culture" ;
+    prism:publicationDate "1995"^^xsd:gYear .
+
+<https://doi.org/10.1093/ww/9780199540884.013.u224616> a fabio:ReferenceEntry ;
+    dcterms:title "Denniston, John Dewar, (4 March 1887–2 May 1949), Fellow and Tutor of Hertford College, Oxford" ;
+    dcterms:creator "John P. Rossi" ;
+    dcterms:isPartOf "Who Was Who" ;
+    prism:publicationDate "2007"^^xsd:gYear .
+
+<https://doi.org/10.2307/20040933> a fabio:JournalArticle ;
+    dcterms:title "The Diplomacy of Ideas: U.S. Foreign Policy and Cultural Relations, 1938-1950" ;
+    dcterms:creator "Frank A. Ninkovich" ;
+    dcterms:isPartOf "Foreign Affairs" ;
+    prism:publicationDate "1981"^^xsd:gYear .
+
+<https://doi.org/10.7312/wilc92236-005> a fabio:BookChapter ;
+    dcterms:title "III. Desperation Politics" ;
+    dcterms:creator "William Phillips" ;
+    dcterms:isPartOf "Pakistan. the Consolidation of a Nation" ;
+    prism:publicationDate "1963"^^xsd:gYear .
+
+<https://doi.org/10.5771/9780742599222-73> a fabio:BookChapter ;
+    dcterms:title "III At \"Far-Flung\" Fronts" ;
+    dcterms:creator "William Barrett" ;
+    dcterms:isPartOf "American Women in a World at War" ;
+    prism:publicationDate "1996"^^xsd:gYear .
+
+<https://doi.org/10.5040/9781978727564.ch-2> a fabio:Expression ;
+    dcterms:title "Sidney Hook, John Dewey, and the Committee for Cultural Freedom" ;
+    dcterms:creator "Sidney Hook" ;
+    dcterms:isPartOf "Disputed Legacy of Sidney Hook" ;
+    prism:publicationDate "2022"^^xsd:gYear .
+
+<https://doi.org/10.2307/30044638> a fabio:Review ;
+    dcterms:title "\"Partisan Review\", Our Country, and Our Culture" ;
+    dcterms:creator "Sidney Hook" ;
+    dcterms:isPartOf "College English" ;
+    prism:publicationDate "2005"^^xsd:gYear .
+
+ex:local_591f7391c5 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Bogdan Raditsa" .
+
+ex:local_6b646e1997 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Francois Bondy" .
+
+<https://doi.org/10.1515/9783839469958-009> a fabio:BookChapter ;
+    dcterms:title "Liberalism beyond Individualism and Capitalism" ;
+    dcterms:creator "Bogdan Raditsa" ;
+    dcterms:isPartOf "Update Liberalism" ;
+    prism:publicationDate "2023"^^xsd:gYear .
+
+<https://doi.org/10.4324/9781315669847-14> a fabio:BookChapter ;
+    dcterms:title "A congress for cultural freedom: Berlin, 1950" ;
+    dcterms:creator "Francois Bondy" ;
+    dcterms:isPartOf "The CIA and the Congress for Cultural Freedom in the Early Cold War" ;
+    prism:publicationDate "2016"^^xsd:gYear .
+
+<https://doi.org/10.2307/j.ctt6wq4m1.6> a fabio:BookChapter ;
+    dcterms:title "Introduction." ;
+    dcterms:creator "Irving Howe" ;
+    dcterms:isPartOf "Politics and the Intellectual" ;
+    prism:publicationDate "2010"^^xsd:gYear .
+
+<https://doi.org/10.4324/9780367199838-recw354-1> a fabio:ReferenceEntry ;
+    dcterms:title "Congress for Cultural Freedom" ;
+    dcterms:creator "Michael Warner" ;
+    dcterms:isPartOf "Congress for Cultural Freedom" ;
+    prism:publicationDate "2025"^^xsd:gYear .
+
+<https://doi.org/10.2307/20043319> a fabio:JournalArticle ;
+    dcterms:title "Out of Step: An Unquiet Life in the 20th Century" ;
+    dcterms:creator "Hook" ;
+    dcterms:isPartOf "Foreign Affairs" ;
+    prism:publicationDate "1987"^^xsd:gYear .
+
+<https://doi.org/10.1163/2468-1733_shafr_sim270040540> a fabio:DataFile ;
+    dcterms:title "The Liberal Conspiracy: The Congress for Cultural Freedom and the Struggle for the Mind of Postwar Europe" ;
+    dcterms:creator "Peter Coleman" ;
+    dcterms:isPartOf "The SHAFR Guide Online" .
+
+ex:local_c5b665e99c a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Frances Stonor Saunders" .
+
+ex:local_332a15d924 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "William Phillips" .
+
+ex:local_4b35b75565 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "V. S. Pritchett" .
+
+ex:local_3fe8f0b501 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Arthur Koestler" .
+
+<https://doi.org/10.2307/27516710> a fabio:JournalArticle ;
+    dcterms:title "The Mitrokin Archive" ;
+    dcterms:creator "Frances Stonor Saunders" ;
+    dcterms:isPartOf "Labour History" ;
+    prism:publicationDate "2000"^^xsd:gYear .
+
+<https://doi.org/10.5040/9781978727564.ch-1> a fabio:Expression ;
+    dcterms:title "The Mature Sidney Hook" ;
+    dcterms:creator "Sidney Hook" ;
+    dcterms:isPartOf "Disputed Legacy of Sidney Hook" ;
+    prism:publicationDate "2022"^^xsd:gYear .
+
+<https://doi.org/10.1007/s12115-009-9243-4> a fabio:JournalArticle ;
+    dcterms:title "Remembering the Congress of Cultural Freedom" ;
+    dcterms:creator "ward Shils" ;
+    dcterms:isPartOf "Society" ;
+    prism:publicationDate "2009"^^xsd:gYear .
+
+ex:local_f0aa17b98d a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Irving Howe" .
+
+ex:local_b4c73d32c2 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Primo Levi" .
+
+<https://doi.org/10.4324/9781315630977-10> a fabio:BookChapter ;
+    dcterms:title "Editor-Translator, Literary Essayist, and Political Historian" ;
+    dcterms:creator "Irving Howe" ;
+    dcterms:isPartOf "Worlds of Irving Howe" ;
+    prism:publicationDate "2015"^^xsd:gYear .
+
+<https://doi.org/10.1037/e439362008-003> a fabio:DataFile ;
+    dcterms:title "When you hurt, I hurt" ;
+    dcterms:creator "Irving Howe" ;
+    dcterms:isPartOf "PsycEXTRA Dataset" ;
+    prism:publicationDate "2003"^^xsd:gYear .
+
+<https://doi.org/10.12987/yale/9780300203660.003.0001> a fabio:BookChapter ;
+    dcterms:title "This Age of Conformity {1954}" ;
+    dcterms:creator "Irving Howe" ;
+    dcterms:isPartOf "A Voice Still Heard" ;
+    prism:publicationDate "2014"^^xsd:gYear .
+
+<https://doi.org/10.18574/nyu/9780814708842.003.0008> a fabio:BookChapter ;
+    dcterms:title "5 Toward a “World More Attractive”" ;
+    dcterms:creator "Irving Howe" ;
+    dcterms:isPartOf "Irving Howe" ;
+    prism:publicationDate "2022"^^xsd:gYear .
+
+ex:local_6c589b2717 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Paul Goodman" .
+
+<https://doi.org/10.4324/9781315636801-11> a fabio:BookChapter ;
+    dcterms:title "Our Country, Our Language, Our Server" ;
+    dcterms:creator "Leslie Filer" ;
+    dcterms:isPartOf "Race and Gender in Electronic Media" ;
+    prism:publicationDate "2016"^^xsd:gYear .
+
+<https://doi.org/10.2307/jj.5666742.9> a fabio:BookChapter ;
+    dcterms:title "Garrisoning the Self:" ;
+    dcterms:creator "Lionel Trilling" ;
+    dcterms:isPartOf "Liberalism against Itself" ;
+    prism:publicationDate "2023"^^xsd:gYear .
+
+ex:local_d9975dc1a7 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Meyer Schapiro" .
+
+ex:local_431a8d90f0 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Norman Podhoretz" .
+
+ex:local_e0de48ae4f a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Richard King" .
+
+<https://doi.org/10.7765/9781526137050.00010> a fabio:BookChapter ;
+    dcterms:title "Gothic King Dick" ;
+    dcterms:creator "Richard King" ;
+    dcterms:isPartOf "Democratic Passions" ;
+    prism:publicationDate "2022"^^xsd:gYear .
+
+<https://doi.org/10.5703/shofar.38.3.0070> a fabio:JournalArticle ;
+    dcterms:title "“The Bastard is Rendered Kosher”: Diamonds, War, and the Legitimization of Private Capital in British-Ruled Palestine" ;
+    dcterms:creator "David De Vries" ;
+    dcterms:isPartOf "Shofar" ;
+    prism:publicationDate "2020"^^xsd:gYear .
+
+ex:local_30fbc45e9c a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "David De Vries" .
+
+ex:local_7591e8fc5e a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "David De Vries" .
+
+ex:local_e50c3e3385 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "David De Vries" .
+
+<https://doi.org/10.1080/03068373708730828> a fabio:JournalArticle ;
+    dcterms:title "Palestine royal commission report" ;
+    dcterms:creator "Ov Ben-Ami" ;
+    dcterms:isPartOf "Journal of The Royal Central Asian Society" ;
+    prism:publicationDate "1937"^^xsd:gYear .
+
+<https://doi.org/10.1002/9781118062364.ch11> a fabio:Expression ;
+    dcterms:title "Modeling of Electrochemical Process for Water Treatment Using Diamond Films" ;
+    dcterms:creator "Galia Yogev" ;
+    dcterms:isPartOf "Synthetic Diamond Films" ;
+    prism:publicationDate "2011"^^xsd:gYear .
+
+<https://doi.org/10.1017/s0395264900002390> a fabio:JournalArticle ;
+    dcterms:title "Derek J. Penslar, Shylock‵s children: economics and Jewish identity in modern Europe, Berkeley, University of California Press, 2001, 374 p." ;
+    dcterms:creator "Derek J. Penslar" ;
+    dcterms:isPartOf "Annales. Histoire, Sciences Sociales" ;
+    prism:publicationDate "2004"^^xsd:gYear .
+
+<https://doi.org/10.4324/9781315251523> a fabio:Expression ;
+    dcterms:title "Jewish Workers and the Labour Movement" ;
+    dcterms:creator "Karin Hofmeester" ;
+    prism:publicationDate "2017"^^xsd:gYear .
+
+<https://doi.org/10.1515/9781580466134-001> a fabio:BookChapter ;
+    dcterms:title "Map of Eretz Israel (Palestine) 1914" ;
+    dcterms:creator "Yossi Katz" ;
+    dcterms:isPartOf "The Workers' Health Fund in Eretz Israel" ;
+    prism:publicationDate "2002"^^xsd:gYear .
+
+<https://doi.org/10.1353/book4972> a fabio:Expression ;
+    dcterms:title "California Dreaming: Ideology, Society, and Technology in the Citrus Industry of Palestine, 1890-1939" ;
+    dcterms:creator "Nahum Karlinsky" ;
+    prism:publicationDate "2005"^^xsd:gYear .
+
+<https://doi.org/10.1515/9783110288155> a fabio:Book ;
+    dcterms:title "Zionism and Free Enterprise" ;
+    dcterms:creator "Irit Amit-Cohen" ;
+    prism:publicationDate "2012"^^xsd:gYear .
+
+<https://doi.org/10.1142/9789811252891_0001> a fabio:BookChapter ;
+    dcterms:title "What is “Left-Right Circles”?: Overview of Left-Right Circles with Areas A To E" ;
+    dcterms:creator "Yigal Drori" ;
+    dcterms:isPartOf "Customer Needs and Strategic Management" ;
+    prism:publicationDate "2022"^^xsd:gYear .
+
+<https://doi.org/10.1515/9781400822362> a fabio:EditedBook ;
+    dcterms:title "The Founding Myths of Israel" ;
+    dcterms:creator "Ze'ev Sternhell" ;
+    prism:publicationDate "2009"^^xsd:gYear .
+
+<https://doi.org/10.1080/0021642290010211> a fabio:JournalArticle ;
+    dcterms:title "JEWISH EDUCATION ABROAD" ;
+    dcterms:creator "Dan Giladi" ;
+    dcterms:isPartOf "Jewish Education" ;
+    prism:publicationDate "1929"^^xsd:gYear .
+
+<https://doi.org/10.1525/jps.1987.17.1.00p0154i> a fabio:JournalArticle ;
+    dcterms:title "Economic History of Palestine: Hitpatchut HaCapitalism B'Palestina [The Formation of Capitalism in Palestine]. . Tamar Gozansky." ;
+    dcterms:creator "Tamar Gozansky" ;
+    dcterms:isPartOf "Journal of Palestine Studies" ;
+    prism:publicationDate "1987"^^xsd:gYear .
+
+<https://doi.org/10.1163/2352-0272_emho_com_017933> a fabio:DataFile ;
+    dcterms:title "Bourgeoisie" ;
+    dcterms:creator "Amir Ben-Porat" ;
+    dcterms:isPartOf "Encyclopedia of Early Modern History Online" .
+
+<https://doi.org/10.11126/stanford/9780804787062.003.0006> a fabio:BookChapter ;
+    dcterms:title "Assembling a Jewish Economy" ;
+    dcterms:creator "Ronen Shamir" ;
+    dcterms:isPartOf "Current Flow" ;
+    prism:publicationDate "2013"^^xsd:gYear .
+
+<https://doi.org/10.1628/978-3-16-158688-0> a fabio:EditedBook ;
+    dcterms:title "Jews and Hellenistic Cities in Eretz-Israel" ;
+    dcterms:creator "Hagit Lavsky" ;
+    prism:publicationDate "2020"^^xsd:gYear .
+
+<https://doi.org/10.4324/9781003678823> a fabio:Book ;
+    dcterms:title "Prophetism from Scripture to Practice" ;
+    dcterms:creator "Aryeh Shenkar" ;
+    prism:publicationDate "2025"^^xsd:gYear .
+
+<https://doi.org/10.4324/9781315035253> a fabio:Book ;
+    dcterms:title "Jabotinsky and the Revisionist Movement 1925-1948" ;
+    dcterms:creator "Yaakov Shavit" ;
+    prism:publicationDate "2013"^^xsd:gYear .
+
+<https://doi.org/10.1093/acprof:oso/9780198208525.003.0002> a fabio:BookChapter ;
+    dcterms:title "Prologue Neo-liberalism and the Social Market" ;
+    dcterms:creator "Tamar Barkai" ;
+    dcterms:isPartOf "Freedom with Responsibility" ;
+    prism:publicationDate "2000"^^xsd:gYear .
+
+<https://doi.org/10.2307/j.ctt9m0w9v> a fabio:Expression ;
+    dcterms:title "Diamonds and War" ;
+    dcterms:creator "David De Vries" ;
+    prism:publicationDate "2010"^^xsd:gYear .
+
+<https://doi.org/10.54195/ntm.18629> a fabio:JournalArticle ;
+    dcterms:title "Mensenrechten op het goudschaaltje?" ;
+    dcterms:creator "Eric Laureys" ;
+    dcterms:isPartOf "Nederlands Tijdschrift voor de Mensenrechten" ;
+    prism:publicationDate "2024"^^xsd:gYear .
+
+<https://doi.org/10.1553/0x00283f2c> a fabio:Expression ;
+    dcterms:title "Rothblum, David" ;
+    dcterms:creator "David Rothblum" .
+
+<https://doi.org/10.1093/benz/9780199773787.article.b00100207> a fabio:Expression ;
+    dcterms:title "Koller, Ben-Ami" ;
+    dcterms:creator "Ov Ben-Ami" ;
+    dcterms:isPartOf "Benezit Dictionary of Artists" ;
+    prism:publicationDate "2011"^^xsd:gYear .
+
+<https://doi.org/10.1057/9780333985281_20> a fabio:BookChapter ;
+    dcterms:title "Confiscation in Belgium: Diamonds and other Jewish Properties" ;
+    dcterms:creator "Viviane Teitelbaum-Hirsch" ;
+    dcterms:isPartOf "The Plunder of Jewish Property during the Holocaust" ;
+    prism:publicationDate "2001"^^xsd:gYear .
+
+<https://doi.org/10.1515/9781626370050-005> a fabio:BookChapter ;
+    dcterms:title "5 The Illegal “Migration Industry”" ;
+    dcterms:creator "Avraham Friman" ;
+    dcterms:isPartOf "Migration in the Global Political Economy" ;
+    prism:publicationDate "2011"^^xsd:gYear .
+
+ex:local_48e269ba7c a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "YL" .
+
+<https://doi.org/10.1093/ehr/115.464.1350-a> a fabio:JournalArticle ;
+    dcterms:title "Philosemitism: Admiration and Support in the English-Speaking World for Jews, 1840-1939 William D. Rubinstein and Hilary L. Rubinstein" ;
+    dcterms:creator "William S. Rubinstein" ;
+    dcterms:isPartOf "The English Historical Review" ;
+    prism:publicationDate "2000"^^xsd:gYear .
+
+<https://doi.org/10.1080/13531048108575801> a fabio:JournalArticle ;
+    dcterms:title "The debate in Mapai on the use of violence, 1932–1935" ;
+    dcterms:creator "Anita Shapira" ;
+    dcterms:isPartOf "Studies in Zionism" ;
+    prism:publicationDate "1981"^^xsd:gYear .
+
+<https://doi.org/10.1136/oemed-2016-103951.449> a fabio:Expression ;
+    dcterms:title "P132 Occupational physician ratios in israel – trends, status and solutions" ;
+    dcterms:creator "Moshe Lissak" ;
+    dcterms:isPartOf "Global Occupational Health" ;
+    prism:publicationDate "2016"^^xsd:gYear .
+
+<https://doi.org/10.1515/9783112400609-006> a fabio:BookChapter ;
+    dcterms:title "CHAPTER TWO MUHAMMAD MAHMUD'S GOVERNMENT AND THE PALESTINE QUESTION, 1938-1939" ;
+    dcterms:creator "Government of Palestine" ;
+    dcterms:isPartOf "Egypt and the Palestine question (1936-1945)" ;
+    prism:publicationDate "1983"^^xsd:gYear .
+
+<https://doi.org/10.1093/gmo/9781561592630.article.44634> a fabio:Expression ;
+    dcterms:title "Steinberg, Pinchas" ;
+    dcterms:creator "Pinchas Smagarinsky" ;
+    dcterms:isPartOf "Oxford Music Online" ;
+    prism:publicationDate "2001"^^xsd:gYear .
+
+<https://doi.org/10.1007/springerreference_183401> a fabio:ReferenceEntry ;
+    dcterms:title "Ben-Yishay, Yehuda (1933- )" ;
+    dcterms:creator "Moshe Ben-Yehuda" ;
+    dcterms:isPartOf "SpringerReference" .
+
+<https://doi.org/10.1163/ejb9789004244627.b10077> a fabio:DataFile ;
+    dcterms:title "CIA, Memorandum, Societal Issues, 1985." ;
+    dcterms:creator "F. A. Mathias" ;
+    dcterms:isPartOf "Cold War Intelligence" .
+
+<https://doi.org/10.2307/128310> a fabio:JournalArticle ;
+    dcterms:title "Cinema in Revolution" ;
+    dcterms:creator "Moshe Schnitzer" ;
+    dcterms:isPartOf "Russian Review" ;
+    prism:publicationDate "1974"^^xsd:gYear .
+
+<https://doi.org/10.1163/9789004671201_021> a fabio:BookChapter ;
+    dcterms:title "The Jews in the Diamond Industry in Amsterdam" ;
+    dcterms:creator "MA" ;
+    dcterms:isPartOf "Dutch Jewish History" ;
+    prism:publicationDate "1984"^^xsd:gYear .
+
+<https://doi.org/10.1163/1877-5888_rpp_sim_13299> a fabio:DataFile ;
+    dcterms:title "Luzzatto, Moshe Hayyim" ;
+    dcterms:creator "Moshe Ofen" ;
+    dcterms:isPartOf "Religion Past and Present" .
+
+<https://doi.org/10.4324/9780429464041-13> a fabio:BookChapter ;
+    dcterms:title "Russian automotive industry" ;
+    dcterms:creator "Yehoshua Mazor" ;
+    dcterms:isPartOf "Russian Trade Policy" ;
+    prism:publicationDate "2019"^^xsd:gYear .
+
+<https://doi.org/10.5860/choice.32-5235> a fabio:JournalArticle ;
+    dcterms:title "We lived with dignity: the Jewish proletariat of Amsterdam, 1900-1940" ;
+    dcterms:creator "Selma Leydesdorff" ;
+    dcterms:isPartOf "Choice Reviews Online" ;
+    prism:publicationDate "1995"^^xsd:gYear .
+
+<https://doi.org/10.1353/jjq.2023.a914623> a fabio:JournalArticle ;
+    dcterms:title "Hebrew Language Expressions, Phrases, and Terms in Ulysses" ;
+    dcterms:creator "Ohel" ;
+    dcterms:isPartOf "James Joyce Quarterly" ;
+    prism:publicationDate "2023"^^xsd:gYear .
+
+<https://doi.org/10.1093/benz/9780199773787.article.b00025648> a fabio:ReferenceEntry ;
+    dcterms:title "Brandstatter, Yehoshua" ;
+    dcterms:creator "Yehoshua Hadari" ;
+    dcterms:isPartOf "Benezit Dictionary of Artists" ;
+    prism:publicationDate "2011"^^xsd:gYear .
+
+<https://doi.org/10.4324/9781003161776-6> a fabio:BookChapter ;
+    dcterms:title "Fidesz and national capital" ;
+    dcterms:creator "Dan Giladi" ;
+    dcterms:isPartOf "The Political Economy of Hungarian Authoritarian Populism" ;
+    prism:publicationDate "2024"^^xsd:gYear .
+
+<https://doi.org/10.4324/9780429496165-3> a fabio:BookChapter ;
+    dcterms:title "The Ideological Wellspring of Zionist Capitalism: The Impact of Private Capital and Industry on the Shaping of the Dominant Zionist Ideology" ;
+    dcterms:creator "Michal Frenkel" ;
+    dcterms:isPartOf "The New Israel" ;
+    prism:publicationDate "2018"^^xsd:gYear .
+
+<https://doi.org/10.1533/9780857096685.1.3> a fabio:BookChapter ;
+    dcterms:title "Principles of quantum information processing (QIP) using diamond" ;
+    dcterms:creator "Heinrich Goldman" ;
+    dcterms:isPartOf "Quantum Information Processing with Diamond" ;
+    prism:publicationDate "2014"^^xsd:gYear .
+
+<https://doi.org/10.1007/978-1-349-03302-7_6> a fabio:BookChapter ;
+    dcterms:title "Social Politics: The Eustace Diamonds" ;
+    dcterms:creator "Elchanan Halperin" ;
+    dcterms:isPartOf "Trollope and Politics" ;
+    prism:publicationDate "1977"^^xsd:gYear .
+
+<https://doi.org/10.4324/9781003369820-5> a fabio:BookChapter ;
+    dcterms:title "Competitiveness and internationalization of industry: the case of Switzerland" ;
+    dcterms:creator "Y. Yerushalmi" ;
+    dcterms:isPartOf "The Competitiveness of European Industry" ;
+    prism:publicationDate "2023"^^xsd:gYear .
+
+<https://doi.org/10.2172/894521> a fabio:Expression ;
+    dcterms:title "NEW HIGH STRENGTH AND FASTER DRILLING TSP DIAMOND CUTTERS" ;
+    dcterms:creator "David Gurevich" ;
+    prism:publicationDate "2006"^^xsd:gYear .
+
+<https://doi.org/10.1515/9781575065052-001> a fabio:BookChapter ;
+    dcterms:title "Moshe Greenberg: An Appreciation" ;
+    dcterms:creator "Moshe Schnitzer" ;
+    dcterms:isPartOf "Tehillah le-Moshe" ;
+    prism:publicationDate "1997"^^xsd:gYear .
+
+<https://doi.org/10.1525/jps.1997.26.4.00p0014h> a fabio:JournalArticle ;
+    dcterms:title "Moshe Sharett: In Ben-Gurion's Long Shadow: Moshe Sharett, Biography of a Political Moderate. . Gabriel Sheffer." ;
+    dcterms:creator "Moshe Schnitzer" ;
+    dcterms:isPartOf "Journal of Palestine Studies" ;
+    prism:publicationDate "1997"^^xsd:gYear .
+
+<https://doi.org/10.1179/sre.1942.6.45.388> a fabio:JournalArticle ;
+    dcterms:title "SURVEY OF PALESTINE: THE FIRST TWENTY YEARS" ;
+    dcterms:creator "A. Pushter" ;
+    dcterms:isPartOf "Empire Survey Review" ;
+    prism:publicationDate "1942"^^xsd:gYear .
+
+<https://doi.org/10.1080/00263200008701309> a fabio:JournalArticle ;
+    dcterms:title "Economic and Zionist ideological perceptions: private initiative in Palestine in the 1920s and 1930s" ;
+    dcterms:creator "Irit Amit" ;
+    dcterms:isPartOf "Middle Eastern Studies" ;
+    prism:publicationDate "2000"^^xsd:gYear .
+
+ex:local_9cc3c88ac0 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Shalom Horowitz" .
+
+ex:local_9925c01d60 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "John Fletcher" .
+
+ex:local_1a2364f510 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "David Anderson" .
+
+<https://doi.org/10.1515/9783111716787-004> a fabio:BookChapter ;
+    dcterms:title "2. The Problem of Palestine" ;
+    dcterms:creator "Albert Ehrenfeld" ;
+    dcterms:isPartOf "Reflections on the Middle East crisis" ;
+    prism:publicationDate "1970"^^xsd:gYear .
+
+<https://doi.org/10.1080/00310328.2022.2160142> a fabio:JournalArticle ;
+    dcterms:title "The Case of the Two Volute Capitals from Tel Hazor" ;
+    dcterms:creator "Ov Ben-Ami" ;
+    dcterms:isPartOf "Palestine Exploration Quarterly" ;
+    prism:publicationDate "2024"^^xsd:gYear .
+
+<https://doi.org/10.4324/9780203038178> a fabio:Book ;
+    dcterms:title "The Industrial Geography of Israel" ;
+    dcterms:creator "Yehuda Gradus" ;
+    prism:publicationDate "2006"^^xsd:gYear .
+
+<https://doi.org/10.1007/978-0-387-95960-3_4> a fabio:BookChapter ;
+    dcterms:title "The Mazzel Ritual: Trust, Loyalty, Risk, and the Culture of the Diamond Trade" ;
+    dcterms:creator "Dina Siegel" ;
+    dcterms:isPartOf "The Mazzel Ritual" ;
+    prism:publicationDate "2009"^^xsd:gYear .
+
+<https://doi.org/10.18352/bmgn-lchr.3985> a fabio:JournalArticle ;
+    dcterms:title "S. Bloemgarten, Henri Polak, sociaal democraat, 1868-1943" ;
+    dcterms:creator "Salvador Bloemgarten" ;
+    dcterms:isPartOf "BMGN - Low Countries Historical Review" ;
+    prism:publicationDate "1995"^^xsd:gYear .
+
+<https://doi.org/10.2307/j.ctv1zjg76k.15> a fabio:BookChapter ;
+    dcterms:title "Histadrut Haovdim" ;
+    dcterms:creator "Histadrut" ;
+    dcterms:isPartOf "Palestine for the Third Time" ;
+    prism:publicationDate "2021"^^xsd:gYear .
+
+ex:local_f582053197 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Pinchas Smagarinsky" .
+
+<https://doi.org/10.1108/mi.2010.21827aab.015> a fabio:JournalArticle ;
+    dcterms:title "Future Horizons signs up Amir Ben-Artzi as Israeli representative" ;
+    dcterms:creator "Ben Shefferman" ;
+    dcterms:isPartOf "Microelectronics International" ;
+    prism:publicationDate "2010"^^xsd:gYear .
+
+<https://doi.org/10.1163/3050-5836_bman_kj-28-76> a fabio:DataFile ;
+    dcterms:title "Text of Palestine despatch no. 487, 26-6-1931, from His Majesty's Principal secretary of State for the Colonies" ;
+    dcterms:creator "Ov Ben-Ami" ;
+    dcterms:isPartOf "Palestine: The British Mandate, 1917–1948" .
+
+<https://doi.org/10.1609/aaai.v37i5.25750> a fabio:JournalArticle ;
+    dcterms:title "Frustratingly Easy Truth Discovery" ;
+    dcterms:creator "Amir Ben-Porat" ;
+    dcterms:isPartOf "Proceedings of the AAAI Conference on Artificial Intelligence" ;
+    prism:publicationDate "2023"^^xsd:gYear .
+
+<https://doi.org/10.1515/9783110879100.18> a fabio:BookChapter ;
+    dcterms:title "II. BEN YEHUDA BEFORE PALESTINE" ;
+    dcterms:creator "Moshe Ben-Yehuda" ;
+    dcterms:isPartOf "The Revival of Classical Tongue" ;
+    prism:publicationDate "1973"^^xsd:gYear .
+
+<https://doi.org/10.1037/e504972010-002> a fabio:DataFile ;
+    dcterms:title "Licensure CAF Council Subcommittee Report" ;
+    dcterms:creator "Shalom Horowitz" ;
+    dcterms:isPartOf "PsycEXTRA Dataset" ;
+    prism:publicationDate "2006"^^xsd:gYear .
+
+<https://doi.org/10.7560/725607-002> a fabio:BookChapter ;
+    dcterms:title "1. Filming the Homeland: Cinema in Eretz Israel and the Zionist Movement, 1917–1939" ;
+    dcterms:creator "Yossi Katz" ;
+    dcterms:isPartOf "Israeli Cinema" ;
+    prism:publicationDate "2011"^^xsd:gYear .
+
+<https://doi.org/10.1093/owc/9780199578177.003.0082> a fabio:BookChapter ;
+    dcterms:title "Chapter 79 diamonds are diamonds" ;
+    dcterms:creator "L. Y." ;
+    dcterms:isPartOf "Can You Forgive Her?" ;
+    prism:publicationDate "2012"^^xsd:gYear .
+
+<https://doi.org/10.51769/bmgn-lchr.19498> a fabio:JournalArticle ;
+    dcterms:title "Het lot van psychiatrische patiënten in Nederland tijdens de Tweede Wereldoorlog" ;
+    dcterms:creator "Eric Laureys" ;
+    dcterms:isPartOf "BMGN - Low Countries Historical Review" ;
+    prism:publicationDate "2025"^^xsd:gYear .
+
+<https://doi.org/10.1086/425452> a fabio:JournalArticle ;
+    dcterms:title "<i>Shylock’s Children: Economics and Jewish Identity in Modern Europe</i>. By Derek J.  Penslar. Berkeley: University of California Press, 2001. Pp. xi+374. $45.00." ;
+    dcterms:creator "Derek J. Penslar" ;
+    dcterms:isPartOf "The Journal of Modern History" ;
+    prism:publicationDate "2004"^^xsd:gYear .
+
+<https://doi.org/10.1163/9789004324961_011> a fabio:BookChapter ;
+    dcterms:title "Interview: The “Composer” and the “Conductor”: An Interview with Director and Playwright Emily Mann on Working with Albee" ;
+    dcterms:creator "Zvi Rosenberg" ;
+    dcterms:isPartOf "Edward Albee and Absurdism" ;
+    prism:publicationDate "2017"^^xsd:gYear .
+
+<https://doi.org/10.7560/708617-005> a fabio:BookChapter ;
+    dcterms:title "TWO. ISLAMIC BELIEF AND PRACTICE" ;
+    dcterms:creator "Arie Shenkar" ;
+    dcterms:isPartOf "Islam" ;
+    prism:publicationDate "1998"^^xsd:gYear .
+
+<https://doi.org/10.4324/9780429466793-18> a fabio:BookChapter ;
+    dcterms:title "The Israeli defense industry" ;
+    dcterms:creator "Pinchas Smagarinsky" ;
+    dcterms:isPartOf "The Economics of the Global Defence Industry" ;
+    prism:publicationDate "2019"^^xsd:gYear .
+
+<https://doi.org/10.1080/00263209408701026> a fabio:JournalArticle ;
+    dcterms:title "Proletarianization and national segregation: Haifa in the 1920s" ;
+    dcterms:creator "David De Vries" ;
+    dcterms:isPartOf "Middle Eastern Studies" ;
+    prism:publicationDate "1994"^^xsd:gYear .
+
+<https://doi.org/10.4324/9781315257501-31> a fabio:BookChapter ;
+    dcterms:title "The construction of the image of dock labour" ;
+    dcterms:creator "David De Vries" ;
+    dcterms:isPartOf "Dock Workers" ;
+    prism:publicationDate "2017"^^xsd:gYear .
+
+<https://doi.org/10.2307/j.ctt9qdb1x> a fabio:Expression ;
+    dcterms:title "Strike Action and Nation Building" ;
+    dcterms:creator "David De Vries" ;
+    prism:publicationDate "2015"^^xsd:gYear .
+
+<https://doi.org/10.4159/harvard.9780674733695.c2> a fabio:BookChapter ;
+    dcterms:title "Edward Gibbon: The Historian of the Roman Empire" ;
+    dcterms:creator "ward Gibbon" ;
+    dcterms:isPartOf "Edward Gibbon and the Decline and Fall of the Roman Empire" ;
+    prism:publicationDate "1977"^^xsd:gYear .
+
+ex:local_24b45e3c9b a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Homer" .
+
+ex:local_0bc1c80369 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Dante" .
+
+ex:local_a5183bc03c a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Dr Johnson" .
+
+ex:local_a73f324600 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Stubbs" .
+
+ex:local_4871832f20 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Pollock" .
+
+ex:local_2cc56c044d a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Maitland" .
+
+ex:local_8768b2d333 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "St Augustine" .
+
+ex:local_c3bca7c44d a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Aquinas" .
+
+ex:local_ac936b73ab a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Hooker" .
+
+ex:local_b0240c2746 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Jeremy Taylor" .
+
+<https://doi.org/10.23943/princeton/9780691188805.003.0001> a fabio:BookChapter ;
+    dcterms:title "What Are Jews For?" ;
+    dcterms:creator "Milman" ;
+    dcterms:isPartOf "What Are Jews For?" ;
+    prism:publicationDate "2020"^^xsd:gYear .
+
+<https://doi.org/10.3828/liverpool/9781904113669.001.0001> a fabio:EditedBook ;
+    dcterms:title "Hebrew Poems from Spain" ;
+    dcterms:creator "David Goldstein" ;
+    prism:publicationDate "2007"^^xsd:gYear .
+
+<https://doi.org/10.1163/1878-9781_ejiw_sim_indexh5> a fabio:DataFile ;
+    dcterms:title "H (Hegyon ha-Nefesh ha-‘Aṣuva (Meditation of the Sad Soul, Bar Ḥiyya) - Hirsch, Maurice de: development of Salonica by)" ;
+    dcterms:creator "Abraham bar Hayya" ;
+    dcterms:isPartOf "Encyclopedia of Jews in the Islamic World" .
+
+<https://doi.org/10.2307/2850394> a fabio:JournalArticle ;
+    dcterms:title "<i>The Book of Tradition (Sefer ha-Ḳabbalah)</i>. Abraham Ibn Daud" ;
+    dcterms:creator "Abraham ibn Daud" ;
+    dcterms:isPartOf "Speculum" ;
+    prism:publicationDate "1969"^^xsd:gYear .
+
+<https://doi.org/10.1007/978-3-476-05728-0_22293-1> a fabio:BookChapter ;
+    dcterms:title "Scholem, Gershom: Sabbatai Sevi" ;
+    dcterms:creator "Gershon Scholem" ;
+    dcterms:isPartOf "Kindlers Literatur Lexikon (KLL)" ;
+    prism:publicationDate "2020"^^xsd:gYear .
+
+<https://doi.org/10.1515/agph-1976-0114> a fabio:JournalArticle ;
+    dcterms:title "Alexander Altmann: Moses Mendelssohn" ;
+    dcterms:creator "Alexander Altmann" ;
+    dcterms:isPartOf "Archiv für Geschichte der Philosophie" ;
+    prism:publicationDate "1976"^^xsd:gYear .
+
+<https://doi.org/10.1353/tho.1971.0020> a fabio:JournalArticle ;
+    dcterms:title "The Star of Redemption by Franz Rosenzweig, Kachav HaG’ulah (“The Star of Redemption”) by Franz Rosenzweig" ;
+    dcterms:creator "Franz Rosenzweig" ;
+    dcterms:isPartOf "The Thomist: A Speculative Quarterly Review" ;
+    prism:publicationDate "1971"^^xsd:gYear .
+
+<https://doi.org/10.18574/nyu/9780814708842.003.0004> a fabio:BookChapter ;
+    dcterms:title "1 The Trauma of Sharply Fallen Circumstances: World of Our Fathers" ;
+    dcterms:creator "Irving Howe" ;
+    dcterms:isPartOf "Irving Howe" ;
+    prism:publicationDate "2022"^^xsd:gYear .
+
+<https://doi.org/10.1017/cbo9780511691652.001> a fabio:BookChapter ;
+    dcterms:title "Byzantine-Jewish economic history" ;
+    dcterms:creator "Andrew Scharf" ;
+    dcterms:isPartOf "Byzantine Jewry in the Mediterranean Economy" ;
+    prism:publicationDate "2009"^^xsd:gYear .
+
+<https://doi.org/10.9783/9780812202656.toc> a fabio:BookChapter ;
+    dcterms:title "Contents" ;
+    dcterms:creator "Bahya" ;
+    dcterms:isPartOf "A Sufi-Jewish Dialogue" ;
+    prism:publicationDate "2007"^^xsd:gYear .
+
+<https://doi.org/10.1163/2330-4804_eiro_com_9861> a fabio:DataFile ;
+    dcterms:title "FISCHEL, WALTER JOSEPH" ;
+    dcterms:creator "Walter Fischel" ;
+    dcterms:isPartOf "Encyclopaedia Iranica Online" .
+
+<https://doi.org/10.1086/488762> a fabio:JournalArticle ;
+    dcterms:title "<i>The Wisdom of the Zohar: An Anthology of Texts</i>. Isaiah Tishby , David Goldstein" ;
+    dcterms:creator "Isaiah Tishby" ;
+    dcterms:isPartOf "The Journal of Religion" ;
+    prism:publicationDate "1991"^^xsd:gYear .
+
+<https://doi.org/10.9783/9780812295009-002> a fabio:BookChapter ;
+    dcterms:title "Abbreviations of Sefer Hasidim Manuscripts" ;
+    dcterms:creator "Arthur Rubin" ;
+    dcterms:isPartOf "\"Sefer Hasidim\" and the Ashkenazic Book in Medieval Europe" ;
+    prism:publicationDate "2018"^^xsd:gYear .
+
+<https://doi.org/10.1086/485975> a fabio:JournalArticle ;
+    dcterms:title "<i>A Social and Religious History of the Jews, Vols. IX and X</i>. Salo W. Baron<i>History and Jewish Historians</i>. Salo W. Baron" ;
+    dcterms:creator "Salo Baron" ;
+    dcterms:isPartOf "The Journal of Religion" ;
+    prism:publicationDate "1967"^^xsd:gYear .
+
+ex:local_0022a121f1 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Louis Jacobs" .
+
+<https://doi.org/10.3917/popu.p1961.16n4.0768> a fabio:JournalArticle ;
+    dcterms:title "Gartner Lloyd P — The Jewish immigrant in England. 1870-1914" ;
+    dcterms:creator "Lloyd P. Gartner" ;
+    dcterms:isPartOf "Population" ;
+    prism:publicationDate "1961"^^xsd:gYear .
+
+<https://doi.org/10.2307/2591804> a fabio:JournalArticle ;
+    dcterms:title "Social History of the Jews in England, 1850-1950." ;
+    dcterms:creator "Vivian D. Lipman" ;
+    dcterms:isPartOf "The Economic History Review" ;
+    prism:publicationDate "1955"^^xsd:gYear .
+
+<https://doi.org/10.63485/d7fkp-mjh19> a fabio:Expression ;
+    dcterms:title "David Lipman honored for his service to America" ;
+    dcterms:creator "Vivian D. Lipman" ;
+    prism:publicationDate "2008"^^xsd:gYear .
+
+ex:local_ed2b16e706 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Moses Rischin" .
+
+ex:local_35daf530dc a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Irving Howe" .
+
+ex:local_91c92e6399 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Moses Rischin" .
+
+ex:local_879d8af6b3 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Irving Howe" .
+
+<https://doi.org/10.2307/2574272> a fabio:JournalArticle ;
+    dcterms:title "MIGRATION AND ECONOMIC GROWTH. By Brinley Thomas. New York: Cambridge University Press, 1954. 362 pp. $8.00" ;
+    dcterms:creator "Brinley Thomas" ;
+    dcterms:isPartOf "Social Forces" ;
+    prism:publicationDate "1955"^^xsd:gYear .
+
+ex:local_11b3a6881c a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Mendel Mokher Seforim" .
+
+ex:local_b667568769 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Sholem Aleichem" .
+
+<https://doi.org/10.12987/9780300227741-009> a fabio:BookChapter ;
+    dcterms:title "Hayim Nahman Bialik—A Chronology" ;
+    dcterms:creator "Bialik" ;
+    dcterms:isPartOf "Hayim Nahman Bialik" ;
+    prism:publicationDate "2020"^^xsd:gYear .
+
+<https://doi.org/10.1353/jqr.2006.0019> a fabio:JournalArticle ;
+    dcterms:title "A Tourist in 'Ir ha-Haregah (A Tourist in the City of Slaughter) -- Kishinev 1903" ;
+    dcterms:creator "Bialik" ;
+    dcterms:isPartOf "Jewish Quarterly Review" ;
+    prism:publicationDate "2006"^^xsd:gYear .
+
+<https://doi.org/10.1093/benz/9780199773787.article.b00070610> a fabio:Expression ;
+    dcterms:title "Garbuz, Yair" ;
+    dcterms:creator "Rabbi Yair Hayyim Bachrach" ;
+    dcterms:isPartOf "Benezit Dictionary of Artists" ;
+    prism:publicationDate "2011"^^xsd:gYear .
+
+<https://doi.org/10.1057/9780230800021_15> a fabio:BookChapter ;
+    dcterms:title "The Rabbi and the Emperor: Ezekiel Landau and Joseph II" ;
+    dcterms:creator "Rabbi Ezekiel Landau" ;
+    dcterms:isPartOf "The Making of Western Jewry, 1600–1819" ;
+    prism:publicationDate "2004"^^xsd:gYear .
+
+ex:local_182d035cbe a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Lloyd P. Gartner" .
+
+ex:local_338dd8e23a a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Lloyd P. Gartner" .
+
+<https://doi.org/10.2307/4050422> a fabio:JournalArticle ;
+    dcterms:title "Bill Williams. The Making of Manchester Jewry 1740–1875. Dover, N.H.: Manchester University Press. 1985. Pp. x, 454. $10.00." ;
+    dcterms:creator "Bill Williams" ;
+    dcterms:isPartOf "Albion" ;
+    prism:publicationDate "1987"^^xsd:gYear .
+
+ex:local_004e1ef752 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Jerry White" .
+
+ex:local_6009eb3f20 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Dr Buckman" .
+
+ex:local_96e7a4779c a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Dr Buckman" .
+
+ex:local_1728dcbe2e a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Lloyd P. Gartner" .
+
+<https://doi.org/10.4324/9781315676197> a fabio:Book ;
+    dcterms:title "Anti-Semitism in British Society, 1876-1939" ;
+    dcterms:creator "Colin Holmes" ;
+    prism:publicationDate "2015"^^xsd:gYear .
+
+<https://doi.org/10.1093/oso/9780192892522.003.0041> a fabio:BookChapter ;
+    dcterms:title "The Class Structure of the ‘Classic Slum’" ;
+    dcterms:creator "Robert Roberts" ;
+    dcterms:isPartOf "Oxford Readers Class" ;
+    prism:publicationDate "1995"^^xsd:gYear .
+
+ex:local_91db669829 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Bernard Gainer" .
+
+ex:local_36da0966e0 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "John A. Garrard" .
+
+ex:local_3694949838 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Arthur Harding" .
+
+<https://doi.org/10.13109/9783666369438.463> a fabio:BookChapter ;
+    dcterms:title "Jenseits von Territorium – Jüdische Nation und Diaspora bei Simon Dubnow" ;
+    dcterms:creator "Simon Dubnow" ;
+    dcterms:isPartOf "Jahrbuch des Simon-Dubnow-Instituts / Simon Dubnow Institute Yearbook XIII/2014" ;
+    prism:publicationDate "2015"^^xsd:gYear .
+
+<https://doi.org/10.1093/ww/9780199540884.013.u190723> a fabio:ReferenceEntry ;
+    dcterms:title "Schechter, Solomon, (died 21 Nov. 1915)" ;
+    dcterms:creator "Solomon Schechter" ;
+    dcterms:isPartOf "Who Was Who" ;
+    prism:publicationDate "2007"^^xsd:gYear .
+
+<https://doi.org/10.1017/s0028428900043572> a fabio:JournalArticle ;
+    dcterms:title "The Messianic Idea in Judaism and Other Essays on Jewish Spirituality, by Gershom Scholem. Allen and Unwin, 1971. 376 pp. £5.95." ;
+    dcterms:creator "Gershom Scholem" ;
+    dcterms:isPartOf "New Blackfriars" ;
+    prism:publicationDate "1973"^^xsd:gYear .
+
+<https://doi.org/10.1515/ebr.dinurbenzion> a fabio:DataFile ;
+    dcterms:title "Dinur, Benzion" ;
+    dcterms:creator "Benzion Dinur" ;
+    dcterms:isPartOf "Encyclopedia of the Bible Online" .
+
+<https://doi.org/10.1177/010740830102100209> a fabio:JournalArticle ;
+    dcterms:title "Operation minut för minut" ;
+    dcterms:creator "Y. Tishbi" ;
+    dcterms:isPartOf "Nordic Journal of Nursing Research" ;
+    prism:publicationDate "2001"^^xsd:gYear .
+
+<https://doi.org/10.2307/j.ctv36zs4c> a fabio:Expression ;
+    dcterms:title "Studies in East European Jewish Mysticism and Hasidism" ;
+    dcterms:creator "J. G. Weiss" ;
+    prism:publicationDate "1997"^^xsd:gYear .
+
+<https://doi.org/10.2307/j.ctv1rmjw3.27> a fabio:BookChapter ;
+    dcterms:title "RIVKA SCHATZ-UFFENHEIMER Hasidism as Mysticism: Quietistic Elements in Eighteenth Century Hasidic Thought" ;
+    dcterms:creator "Rivka Shatz-Uffenheimer" ;
+    dcterms:isPartOf "Polin: Studies in Polish Jewry Volume 9" .
+
+<https://doi.org/10.2307/2850260> a fabio:JournalArticle ;
+    dcterms:title "<i>Exclusiveness and Tolerance: Studies in Jewish-Gentile Relations in Medieval and Modern Times</i>. Jacob Katz<i>Tradition and Crisis: Jewish Society at the End of the Middle Ages</i>. Jacob Katz" ;
+    dcterms:creator "Jacob Katz" ;
+    dcterms:isPartOf "Speculum" ;
+    prism:publicationDate "1962"^^xsd:gYear .
+
+<https://doi.org/10.1086/225848> a fabio:JournalArticle ;
+    dcterms:title "<i>Out of the Ghetto: The Social Background of Jewish Emancipation, 1770-1870.</i>Jacob Katz" ;
+    dcterms:creator "Jacob Katz" ;
+    dcterms:isPartOf "American Journal of Sociology" ;
+    prism:publicationDate "1974"^^xsd:gYear .
+
+<https://doi.org/10.18647/949/jjs-1980> a fabio:JournalArticle ;
+    dcterms:title "The United Synagogue 1870-1970NewmanAubrey                     <i>The United Synagogue 1870-1970</i>                     Routledge &amp;#38; Kegan PaulLondon, Henley and Boston, 1976XV, 239, £5.50" ;
+    dcterms:creator "Aubrey Newman" ;
+    dcterms:isPartOf "Journal of Jewish Studies" ;
+    prism:publicationDate "1980"^^xsd:gYear .
+
+<https://doi.org/10.1007/bf02967966> a fabio:JournalArticle ;
+    dcterms:title "Fertility and other demographic variables in multicultural Jerusalem, 1995–2020" ;
+    dcterms:creator "Hannah Neustatter" ;
+    dcterms:isPartOf "Contemporary Jewry" ;
+    prism:publicationDate "1999"^^xsd:gYear .
+
+<https://doi.org/10.2307/2710469> a fabio:JournalArticle ;
+    dcterms:title "The Promised City: New York City's Jews, 1870-1914" ;
+    dcterms:creator "Moses Rischin" ;
+    dcterms:isPartOf "American Quarterly" ;
+    prism:publicationDate "1962"^^xsd:gYear .
+
+<https://doi.org/10.1086/226934> a fabio:JournalArticle ;
+    dcterms:title "<i>World of Our Fathers: The Journey of the Eastern European Jews to America and the Life They Found and Made.</i>Irving Howe , Kenneth Libo" ;
+    dcterms:creator "Irving Howe" ;
+    dcterms:isPartOf "American Journal of Sociology" ;
+    prism:publicationDate "1979"^^xsd:gYear .
+
+<https://doi.org/10.1007/bf02967949> a fabio:JournalArticle ;
+    dcterms:title "Israelis in New York" ;
+    dcterms:creator "Lloyd P. Gartner" ;
+    dcterms:isPartOf "Contemporary Jewry" ;
+    prism:publicationDate "1986"^^xsd:gYear .
+
+<https://doi.org/10.1553/0x00372ade> a fabio:Expression ;
+    dcterms:title "Schwadron, Walter; Scadron" ;
+    dcterms:creator "Shalom Mordecai Schwadron" .
+
+<https://doi.org/10.1086/642788> a fabio:JournalArticle ;
+    dcterms:title "<i>New York Jews and the Quest for Community: The Kehillah Experiment, 1908-1922</i>. Arthur A. Goren" ;
+    dcterms:creator "Arthur Goren" ;
+    dcterms:isPartOf "Social Service Review" ;
+    prism:publicationDate "1971"^^xsd:gYear .
+
+<https://doi.org/10.1093/leobaeck/28.1.301> a fabio:JournalArticle ;
+    dcterms:title "The German-Jewish Fight Against White Slavery" ;
+    dcterms:creator "ward J. Bristow" ;
+    dcterms:isPartOf "The Leo Baeck Institute Yearbook" ;
+    prism:publicationDate "1983"^^xsd:gYear .
+
+<https://doi.org/10.2307/3601484> a fabio:JournalArticle ;
+    dcterms:title "Studies in the Social and Economic History of the Witwatersrand, 1886-1914" ;
+    dcterms:creator "Charles van Onselen" ;
+    dcterms:isPartOf "African Economic History" ;
+    prism:publicationDate "1984"^^xsd:gYear .
+
+<https://doi.org/10.3828/liverpool/9781904113744.003.0009> a fabio:BookChapter ;
+    dcterms:title "Community School versus School as Community" ;
+    dcterms:creator "Victor A. Mirelman" ;
+    dcterms:isPartOf "Jewish Day Schools, Jewish Communities" ;
+    prism:publicationDate "2009"^^xsd:gYear .
+
+<https://doi.org/10.1017/cbo9780511572494> a fabio:Expression ;
+    dcterms:title "Prophecy and Politics" ;
+    dcterms:creator "Jonathan Frankel" ;
+    prism:publicationDate "1981"^^xsd:gYear .
+
+<https://doi.org/10.1515/9781400874873> a fabio:EditedBook ;
+    dcterms:title "Albert Ballin" ;
+    dcterms:creator "Lamar Cecil" ;
+    prism:publicationDate "1967"^^xsd:gYear .
+
+<https://doi.org/10.1007/978-3-322-98887-4_6> a fabio:BookChapter ;
+    dcterms:title "Die Wirtschaft Deutschlands im Zeitalter des Hochkapitalismus" ;
+    dcterms:creator "Erich Murken" ;
+    dcterms:isPartOf "Deutsche Wirtschafts- und Sozialgeschichte" ;
+    prism:publicationDate "1962"^^xsd:gYear .
+
+<https://doi.org/10.1353/swe.1972.a957506> a fabio:Review ;
+    dcterms:title "The Distant Magnet. European Emigration to the U.S. by Philip Taylor (review)" ;
+    dcterms:creator "Philip Taylor" ;
+    dcterms:isPartOf "Swedish-American Studies" ;
+    prism:publicationDate "1972"^^xsd:gYear .
+
+<https://doi.org/10.1111/j.1467-9957.1960.tb00045.x> a fabio:JournalArticle ;
+    dcterms:title "The Growth of Trade Unionism in Banking, 1914‐1927<sup>1</sup>" ;
+    dcterms:creator "Bill Williams" ;
+    dcterms:isPartOf "The Manchester School" ;
+    prism:publicationDate "1960"^^xsd:gYear .
+
+<https://doi.org/10.2307/25142628> a fabio:JournalArticle ;
+    dcterms:title "Immigrants and the Class Struggle: The Jewish Immigrant in Leeds, 1880-1914" ;
+    dcterms:creator "Joe Buckman" ;
+    dcterms:isPartOf "Labour / Le Travail" ;
+    prism:publicationDate "1986"^^xsd:gYear .
+
+ex:local_bcdccb17f5 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "David Feldman" .
+
+<https://doi.org/10.18778/8220-568-8> a fabio:Expression ;
+    dcterms:title "„Historio, historio, cóżeś ty za pani”" ;
+    dcterms:creator "David Feldman" ;
+    prism:publicationDate "2021"^^xsd:gYear .
+
+<https://doi.org/10.1017/s0963926800004004> a fabio:JournalArticle ;
+    dcterms:title "Herbert G. Gutman, Work, Culture, and Society in Industrializing America. Oxford: Basil Blackwell, 1978. x + 343 + xvi pp. £10.50." ;
+    dcterms:creator "Herbert G. Gutman" ;
+    dcterms:isPartOf "Urban History" ;
+    prism:publicationDate "1979"^^xsd:gYear .
+
+<https://doi.org/10.7202/1019028ar> a fabio:JournalArticle ;
+    dcterms:title "White, Jerry. <i>Rothschild Buildings: Life in an East End Tenement Block, 1887-1920</i> Samuel, Raphael, ed. <i>East End Underworld: Chapters in the Life of Arthur Harding.</i>" ;
+    dcterms:creator "Jerry White" ;
+    dcterms:isPartOf "Urban History Review" ;
+    prism:publicationDate "1983"^^xsd:gYear .
+
+<https://doi.org/10.1017/s0963926800006593> a fabio:JournalArticle ;
+    dcterms:title "Derek Fraser (ed.), A History of Modern Leeds. Manchester: Manchester University Press, 1980. xiv + 479 pp. 38 tables. 78 illustrations. £17.50." ;
+    dcterms:creator "Derek Fraser" ;
+    dcterms:isPartOf "Urban History" ;
+    prism:publicationDate "1982"^^xsd:gYear .
+
+<https://doi.org/10.1017/s0963926800015042> a fabio:JournalArticle ;
+    dcterms:title "Bernard Gainer, The Alien Invasion: The Origins of the Aliens Act of 1905. London: Heinemann Educational Books, 1972. 305 pp. Bibliography. £3·50." ;
+    dcterms:creator "Bernard Gainer" ;
+    dcterms:isPartOf "Urban History" ;
+    prism:publicationDate "1974"^^xsd:gYear .
+
+<https://doi.org/10.2307/589099> a fabio:JournalArticle ;
+    dcterms:title "The English and Immigration: A Comparative Study of the Jewish Influx 1880-1910" ;
+    dcterms:creator "John A. Garrard" ;
+    dcterms:isPartOf "The British Journal of Sociology" ;
+    prism:publicationDate "1972"^^xsd:gYear .
+
+<https://doi.org/10.1086/ahr/85.4.887-a> a fabio:JournalArticle ;
+    dcterms:title "Colin Holmes. <i>Anti-Semitism in British Society, 1876–1939</i>. New York: Holmes and Meier. 1979. Pp. viii, 328. $42.50" ;
+    dcterms:creator "Colin Holmes" ;
+    dcterms:isPartOf "The American Historical Review" ;
+    prism:publicationDate "1980"^^xsd:gYear .
+
+<https://doi.org/10.4324/9781315159959-1> a fabio:BookChapter ;
+    dcterms:title "Colin Holmes" ;
+    dcterms:creator "Colin Holmes" ;
+    dcterms:isPartOf "Migrant Britain" ;
+    prism:publicationDate "2018"^^xsd:gYear .
+
+<https://doi.org/10.3366/edinburgh/9781474491587.003.0007> a fabio:BookChapter ;
+    dcterms:title "The Politics: Party Competition Over Immigration in Westminster and Holyrood" ;
+    dcterms:creator "I- Finestein" ;
+    dcterms:isPartOf "The Politics of Immigration in Scotland" ;
+    prism:publicationDate "2022"^^xsd:gYear .
+
+<https://doi.org/10.4324/9781315450728> a fabio:Book ;
+    dcterms:title "Routledge Revivals: East End Underworld (1981)" ;
+    dcterms:creator "Raphael Samuel" ;
+    prism:publicationDate "2016"^^xsd:gYear .
+
+<https://doi.org/10.2307/27508673> a fabio:JournalArticle ;
+    dcterms:title "Hooligans or Rebels? An Oral History of Working Class Childhood and Youth 1889-1939" ;
+    dcterms:creator "Stephen Humphries" ;
+    dcterms:isPartOf "Labour History" ;
+    prism:publicationDate "1984"^^xsd:gYear .
+
+<https://doi.org/10.1515/9783110855616.365> a fabio:BookChapter ;
+    dcterms:title "The Anti-Jewish Riots of August 1911 in South Wales" ;
+    dcterms:creator "Geoffrey Alderman" ;
+    dcterms:isPartOf "Hostages of Modernization, 1, Germany - Great Britain - France" ;
+    prism:publicationDate "1993"^^xsd:gYear .
+
+<https://doi.org/10.1515/9789400601857-002> a fabio:BookChapter ;
+    dcterms:title "Introduction: The Vitality of Tradition" ;
+    dcterms:creator "Nicholas Deakin" ;
+    dcterms:isPartOf "Vitality And Dynamism" ;
+    prism:publicationDate "2014"^^xsd:gYear .
+
+<https://doi.org/10.1177/030981688001000113> a fabio:JournalArticle ;
+    dcterms:title "Out of the Ghetto: My Youth in the East End, Communism and Fascism 1913–1939" ;
+    dcterms:creator "Joe Jacobs" ;
+    dcterms:isPartOf "Capital &amp; Class" ;
+    prism:publicationDate "1980"^^xsd:gYear .
+
+<https://doi.org/10.1086/ahr/85.4.1007> a fabio:JournalArticle ;
+    dcterms:title "Jeffrey S. Gurock. <i>When Harlem Was Jewish, 1870–1930</i>. New York: Columbia University Press. 1979. Pp. xi, 216. $15.00" ;
+    dcterms:creator "Jeffrey S. Gurock" ;
+    dcterms:isPartOf "The American Historical Review" ;
+    prism:publicationDate "1980"^^xsd:gYear .
+
+<https://doi.org/10.1086/443635> a fabio:JournalArticle ;
+    dcterms:title "<i>At Home in America: Second Generation New York Jews</i>. Deborah Dash Moore" ;
+    dcterms:creator "Deborah Dash Moore" ;
+    dcterms:isPartOf "American Journal of Education" ;
+    prism:publicationDate "1982"^^xsd:gYear .
+
+ex:local_86e438b299 a fabio:Expression ;
+    dcterms:title "Untitled" ;
+    dcterms:creator "Arthur Koestler" .
+
+<https://doi.org/10.1093/anb/9780198606697.article.1602392> a fabio:Expression ;
+    dcterms:title "Samuel, Maurice (1895-1972), author and radio host" ;
+    dcterms:creator "Maurice Samuel" ;
+    dcterms:isPartOf "American National Biography Online" ;
+    prism:publicationDate "2000"^^xsd:gYear .
